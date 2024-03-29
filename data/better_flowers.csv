@@ -1,0 +1,944 @@
+taxon,species,color_desc,flowering_months,family,color_id,red,orange,yellow,green,blue,purple,pink,white,brown,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec,inat_phen,ob_num
+Abutilon theophrasti Medik.,Abutilon theophrasti,Yellow,"aug, oct",Malvaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,224
+Acalypha virginica L.,Acalypha rhomboidea,Greenish,"jun,oct",Euphorbiaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,4
+Achillea millefolium L.,Achillea millefolium,"White, pink","jun, sep",Asteraceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,2526
+Acorus calamus L.,Acorus calamus,Greenish yellow,jul,Acoraceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,TRUE,9
+Actaea pachypoda Elliott,Actaea pachypoda,White,"may,jun",Ranunculaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,588
+Actaea podocarpa DC.,Cimicifuga americana,White,"aug,oct",Ranunculaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,2
+Actaea racemosa L.,Cimicifuga racemosa,White,"jun,sep",Ranunculaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,554
+Actaea rubra (Aiton) Willd.,Actaea rubra,White,"may,jun",Ranunculaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,440
+Agalinis maritima (Raf.) Raf.,Gerardia maritima,"Pink, purple","jul, oct",Orobanchaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,26
+Agalinis tenuifolia (Vahl) Raf.,Gerardia tenuifolia,"Pink, purple","jul, nov",Orobanchaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,226
+Agastache nepetoides (L.) Kuntze,Agastache nepetoides,Pale greenish-yellow,"jul, sep",Lamiaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,64
+Agastache scrophulariifolia (Willd.) Kuntze,Agastache scrophulariifolia,Purplish,"jul, sep",Lamiaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,25
+Ageratina aromatica (L.) Spach,Eupatorium aromaticum,White,"jul,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,35
+Agrimonia gryposepala Wallr.,Agrimonia gryposepala,Yellow,"jun, sep",Rosaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,65
+Agrimonia rostellata Wallr.,Agrimonia rostellata,Yellow,"jul, sep",Rosaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,5
+Agrimonia striata Michx.,Agrimonia striata,Yellow,"jun, sep",Rosaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,19
+Agrostemma githago L.,Agrostemma githago,Purplish red,"may,sep",Caryophyllaceae,red,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,4
+Ajuga reptans L.,Ajuga reptans,Blue,"may, jun",Lamiaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,809
+Aletris farinosa L.,Aletris farinosa,Whitish,"may,aug",Nartheciaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,27
+Alisma subcordatum Raf.,Alisma subcordatum,White,"jun, oct",Alismataceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,26
+Alisma triviale Pursh,Alisma triviale,White,"mar, nov",Alismataceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,112
+Alliaria petiolata (M.Bieb.) Cavara & Grande,Alliaria petiolata,White,"may, jun",Brassicaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,5392
+Allium canadense L.,Allium canadense,"Whitish, pink","jun,jul",Amaryllidaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,108
+Allium cernuum Roth,Allium cernuum,"Pink, white","jul,aug",Amaryllidaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,194
+Allium tricoccum Aiton,Allium tricoccum,White,"jun,jul",Amaryllidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,743
+Allium vineale L.,Allium vineale,"Purplish, greenish","may,jul",Amaryllidaceae,green,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,57
+Althaea officinalis L.,Althaea offinalis,Pale-rose,"jul, sep",Malvaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,17
+Amaranthus cannabinus (L.) Sauer,Acnida cannabina,Green,"jun,nov",Amaranthaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,6
+Amaranthus hybridus L.,Amaranthus hybridus,Green,"jun,nov",Amaranthaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,20
+Amaranthus retroflexus L.,Amaranthus retroflexus,Green,"jul,sep",Amaranthaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,9
+Ambrosia artemisiifolia L.,Ambrosia artemisiifolia,Green,"jul,sep",Asteraceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,375
+Ambrosia trifida L.,Ambrosia trifida,Green,"jul,sep",Asteraceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,237
+Amianthium muscitoxicum (Walter) A.Gray,Amianthium muscaetoxicum,"White, green","apr,aug",Melanthiaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,84
+Anaphalis margaritacea (L.) Benth. & Hook.f.,Anaphalis margaritacea,White,"jul,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,1072
+Anchusa arvensis (L.) M.Bieb.,Lycopsis arvensis,Blue,"jun, sep",Boraginaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Andersonglossum virginianum (L.) J.I.Cohen,Cynoglossum virginianum,"Blue, pale-lilac","apr,jun",Boraginaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,63
+Anemone americana (DC.) H.Hara,Hepatica americana,"Blue, pink, white","apr,may",Ranunculaceae,blue,0,0,0,0,1,0,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,1116
+Anemone cylindrica A.Gray,Anemone cylindrica,Greenish white,"jun,aug",Ranunculaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,43
+Anemone lancifolia Pursh,Anemone lancifolia,White,"apr,jun",Ranunculaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,10
+Anemone quinquefolia L.,Anemone quinquefolia,"White, pinkish","apr,jun",Ranunculaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,3729
+Anemone virginiana L.,Anemone riparia,White,"jun,aug",Ranunculaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,316
+Angelica atropurpurea L.,Angelica atropurpurea,Greenish white,jun,Apiaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,110
+Angelica lucida L.,Coelopleurum lucidum,Greenish white,"may, sep",Apiaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,2
+Angelica venenosa (Greenway) Fernald,Angelica venenosa,White,"may, jul",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,9
+Antennaria neglecta Greene,Antennaria neglecta,White,"apr,jun",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,44
+Antennaria parlinii Fernald,Antennaria parlinii,White,"apr,jun",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,12
+Antennaria plantaginifolia (L.) Richardson,Antennaria plantaginifolia,White,"apr,jun",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,19
+Antennaria solitaria Rydb.,Antennaria solitaria,White,"mar,apr",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,6
+Anthemis cotula L.,Anthemis cotula,White,"jun,sep",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,TRUE,12
+Aplectrum hyemale (Muhl. ex Willd.) Nutt.,Aplectrum hyemale,"Purplish,yellowish-brown, white ","May, June",Orchidaceae,yellow,0,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,TRUE,86
+Apocynum androsaemifolium L.,Apocynum androsaemifolium,Pink,"jun, aug",Apocynaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,1414
+Apocynum cannabinum L.,Apocynum cannabinum,Greenish white,"jun, aug",Apocynaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,1138
+Aquilegia canadensis L.,Aquilegia canadensis,"Scarlet, yellow","may, jul",Ranunculaceae,red,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,3711
+Aquilegia vulgaris L.,Aquilegia vulgaris,"Blue, purple, white","apr, may",Ranunculaceae,blue,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,262
+Arabidopsis lyrata (L.) O'Kane & Al-Shehbaz,Arabis lyrata,White,"apr, may",Brassicaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,406
+Aralia hispida Vent.,Aralia hispida,Whitish,"jun, jul",Araliaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,224
+Aralia nudicaulis L.,Aralia nudicaulis,Greenish white,"may, jun",Araliaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,856
+Aralia racemosa L.,Aralia racemosa,Greenish white,jul,Araliaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,146
+Arctium lappa L.,Arctium lappa,"Pink, purple","jul,sep",Asteraceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,197
+Arctium minus (Hill) Bernh.,Arctium minus,"Pink, purple","jul,sep",Asteraceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,383
+Arctostaphylos uva-ursi (L.) Spreng.,Arctostaphylos uva-ursi,"White, pale pink","may,jun",Ericaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,667
+Arenaria serpyllifolia L.,Arenaria serpyllifolia,White,"may,sep",Caryophyllaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,99
+Arethusa bulbosa L.,Arethusa bulbosa,Magenta-pink,"June, July",Orchidaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,237
+Arisaema dracontium (L.) Schott,Arisaema dracontium,Green,"April, June",Araceae,green,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,84
+Arisaema triphyllum (L.) Schott,Arisaema atrorubens,Green and purple,"March, June",Araceae,green,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,5055
+Arnoglossum atriplicifolium (L.) H.Rob.,Cacalia atriplicifolia,White,"jul,nov",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,39
+Arnoglossum reniforme (Hook.) H.Rob.,Cacalia muhlenbergii,White,"jun,aug",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,TRUE,9
+Artemisia biennis Willd.,Artemisia biennis,Green,"aug,oct",Asteraceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,2
+Artemisia campestris L.,Artemisia caudata,Green,"jul,sep",Asteraceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,8
+Artemisia stelleriana Besser,Artemisia stelleriana,Yellowish,"jul,aug",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,18
+Artemisia vulgaris L.,Artemisia vulgaris,Green,"jul,oct",Asteraceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,127
+Aruncus dioicus (Walter) Fernald,Aruncus dioicus,White,"may, aug",Rosaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,22
+Asarum canadense L.,Asarum canadense,Purple-brown,"apr, jun",Aristolochiaceae,purple,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,22
+Asclepias amplexicaulis Sm.,Asclepias amplexicaulis,Greenish purple,"jun,jul",Apocynaceae,green,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,106
+Asclepias exaltata L.,Asclepias exaltata,Cream white,"jun,aug",Apocynaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,566
+Asclepias incarnata L.,Asclepias incarnata,"Pink, rose purple","jun,sep",Apocynaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,1775
+Asclepias purpurascens L.,Asclepias purpurascens,Purplish red,"jun,jul",Apocynaceae,red,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,155
+Asclepias quadrifolia Jacq.,Asclepias quadrifolia,"Pale pink, white","may,jul",Apocynaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,183
+Asclepias rubra L.,Asclepias rubra,Purplish red,"may,aug",Apocynaceae,red,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,TRUE,12
+Asclepias sullivantii Engelm. ex A.Gray,Asclepias sullivantii,Greenish purple,"jun,aug",Apocynaceae,green,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Asclepias syriaca L.,Asclepias syriaca,"Brownish pink, greenish purple","jun,aug",Apocynaceae,green,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,2951
+Asclepias tuberosa L.,Asclepias tuberosa,Orange,"may, sep",Apocynaceae,orange,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,2257
+Asclepias variegata L.,Asclepias veriegata,"White, purple","may,jul",Apocynaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,18
+Asclepias verticillata L.,Asclepias verticillata,Greenish white,"jul,sep",Apocynaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,357
+Asclepias viridiflora Raf.,Asclepias viridiflora,Green,"jun,aug",Apocynaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,89
+Asparagus officinalis L.,Asparagus officinalis,Yellow-green,"may,jun",Asparagaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,36
+Astragalus canadensis L.,Astragalus canadensis,"Cream, yellowish","May, July",Fabaceae,yellow,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,59
+Atriplex patula L.,Atriplex patula,Green,"jul,sep",Amaranthaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Aureolaria flava (L.) Farw.,Gerardia flava,Yellow,"jul,sep",Orobanchaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,49
+Aureolaria laevigata (Raf.) Raf.,Gerardia laevigata,Yellow,"jul,oct",Orobanchaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,8
+Aureolaria pedicularia (L.) Raf. ex Pennell,Gerardia pedicularia,Yellow,"may,oct",Orobanchaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,88
+Aureolaria virginica (L.) Pennell,Gerardia virginica,Yellow,"jun,aug",Orobanchaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,15
+Baptisia australis (L.) R.Br.,Baptisia australis,Indigo-blue,"April, July",Fabaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,205
+Baptisia tinctoria (L.) Vent.,Baptisia tinctoria,Yellow,"May, September",Fabaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,224
+Barbarea verna (Mill.) Asch.,Barbarea verna,Yellow,"may, jul",Brassicaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,17
+Barbarea vulgaris (L.) W.T.Aiton,Barbarea vulgaris,Yellow,"apr, jun",Brassicaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,1002
+Bartonia virginica (L.) Britton & al.,Bartonia virginica,Yellowish,"aug, sep",Gentianaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,21
+Berberis thunbergii DC.,Berberis thunbergii,Yellow,"apr,may",Berberidaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,528
+Berberis vulgaris L.,Berberis vulgaris,Yellow,"may,jun",Berberidaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,117
+Bidens beckii Torr. ex Spreng.,Megalodonta beckii,Yellow,"jul,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,TRUE,23
+Bidens bipinnata L.,Bidens bipinnata,Greenish yellow,"jun,oct",Asteraceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,121
+Bidens cernua L.,Bidens cernua,Yellow,"aug,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,444
+Bidens connata Muhl. ex Willd.,Bidens connata,Greenish yellow,"aug,oct",Asteraceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,60
+Bidens frondosa L.,Bidens frondosa,"Greenish yellow, orange","jul,oct",Asteraceae,orange,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,287
+Bidens laevis (L.) Britton & al.,Bidens laevis,Yellow,"jun,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,TRUE,22
+Bidens vulgata Greene,Bidens vulgata,"Greenish yellow, pale yellow","aug,oct",Asteraceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,49
+Blephilia ciliata (L.) Benth.,Blephilia ciliata,Light purple,"may, aug",Lamiaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,44
+Blephilia hirsuta (Pursh) Benth.,Blephilia hirsuta,"Light purple, dark purple","may, sep",Lamiaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,109
+Boehmeria cylindrica (L.) Sw.,Boehmeria cylindrica,Greenish,"jul,sep",Urticaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,101
+Borodinia canadensis (L.) P.J.Alexander & Windham,Arabis canadensis,Creamy white,"apr, jul",Brassicaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,16
+Borodinia laevigata (Muhl. ex Willd.) P.J.Alexander & Windham,Arabis laevigata,Greenish white,"mar, may",Brassicaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,95
+Brasenia schreberi J.F.Gmel.,Brasenia schreberi,Dull purple,"jun,aug",Cabombaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,277
+Brassica juncea (L.) Czern.,Brassica juncea,Yellow,"may, jun",Brassicaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,TRUE,4
+Brassica rapa L.,Brassica rapa,Yellow,"jun, jul",Brassicaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,32
+Brickellia eupatorioides (L.) Shinners,Kuhnia eupatorioides,White,"aug,sep",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,25
+Butomus umbellatus L.,Butomus umbellatus,Rose,"jun, aug",Butomaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,328
+Cakile edentula (Bigelow) Hook.,Cakile edentula,Light purple,"jul, sep",Brassicaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,287
+Calla palustris L.,Calla palustris,White,"May, June",Araceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,346
+Calopogon tuberosus (L.) Britton & al.,Calopogon tuberosus,Magenta-pink,"June, August",Orchidaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,460
+Caltha palustris L.,Caltha palustris,Yellow,"apr, may",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,3244
+Calypso bulbosa (L.) Oakes,Calypso bulbosa,Purple,"May, June",Orchidaceae,purple,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,TRUE,9
+Calystegia spithamaea (L.) Pursh,Convolvulus spithamaeus,White,"jun, jul",Convolvulaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,225
+Camassia scilloides (Raf.) Cory,Camassia scilloides,Pale blue,"mar,jun",Agavaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,261
+Campanula rotundifolia L.,Campanula rotundifolia,Violet-blue,"jun, oct",Campanulaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,530
+Capnoides sempervirens (L.) Borkh.,Corydalis sempervirens,"Pink, yellow","may, sep",Fumariaceae,yellow,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,844
+Capsella bursa-pastoris (L.) Medik.,Capsella bursa-pastoris,White,"and fruiting jan,oct",Brassicaceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,457
+Cardamine angustata O.E.Schulz,Dentaria heterophylla,Pink,"mar, may",Brassicaceae,pink,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,47
+Cardamine bulbosa (Schreb. ex Muhl.) Britton & al.,Cardamine bulbosa,White,"mar, jun",Brassicaceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,203
+Cardamine concatenata (Michx.) O.Schwarz,Dentaria laciniata,"White, pink","mar, may",Brassicaceae,pink,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,2120
+Cardamine diphylla (Michx.) Alph.Wood,Dentaria diphylla,White,"mar, jun",Brassicaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,858
+Cardamine dissecta (Leavenw.) Al-Shehbaz,Dentaria mutlifida,Pink,"mar, apr",Brassicaceae,pink,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,2
+Cardamine douglasii Britton,Cardamine douglassii,"Rose-purple, pink","mar, apr",Brassicaceae,purple,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,522
+Cardamine maxima (Nutt.) Alph.Wood,Dentaria maxima,"White, pale purple","apr, jun",Brassicaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,TRUE,9
+Cardamine parviflora L.,Cardamine parviflora,White,"mar, jun",Brassicaceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,10
+Cardamine pensylvanica Muhl. ex Willd.,Cardamine pensylvanica,White,"feb, oct",Brassicaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,150
+Cardamine pratensis L.,Cardamine pratensis,"White, pinkish","apr,jun",Brassicaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,152
+Cardamine rotundifolia Michx.,Cardamine rotundifolia,White,"apr, jun",Brassicaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,4
+Carduus nutans L.,Carduus nutans,"Purple, white","jun,oct",Asteraceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,312
+Carum carvi L.,Carum carvi,White,"jun, aug",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,2
+Castilleja coccinea (L.) Spreng.,Castilleja coccinea,"Scarlet, yellowish","January, September",Orobanchaceae,red,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,325
+Caulophyllum thalictroides (L.) Michx.,Caulophyllum thalictroides,"Yellow-green, purplish","apr,may",Berberidaceae,yellow,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,633
+Centaurea jacea L.,Centaurea jacea,Rose-purple,"jul, aug",Asteraceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,282
+Centaurea nigra L.,Centaurea nigra,Rose-purple,"jun, sep",Asteraceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,TRUE,20
+Centaurea stoebe L.,Centaurea maculosa,"Pink, purple, white","jun, oct",Asteraceae,purple,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,886
+Cerastium arvense L.,Cerastium arvense,White,"may,jul",Caryophyllaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,55
+Cerastium glomeratum Thuill.,Cerastium vulgatum,White,"mar,jul",Caryophyllaceae,white,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,TRUE,37
+Chaenorhinum minus (L.) Lange,Chaenorhinum minus,"Blue, lilac","June, September",Plantaginaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,142
+Chamaecrista fasciculata (Michx.) Greene,Cassia fasciculata,Yellow,"jul, sep",Fabaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,725
+Chamaecrista nictitans (L.) Moench,Cassia nictitans,Yellow,"jul, aug",Fabaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,47
+Chamaelirium luteum (L.) A.Gray,Chamaelirium luteum,White,"mar,jun",Melanthiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,29
+Chelidonium majus L.,Chelidonium majus,Yellow,"may, aug",Papaveraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,2047
+Chelone glabra L.,Chelone glabra,"White, pimk","jul, sep",Plantaginaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,1624
+Chelone lyonii Pursh,Chelone lyonii,Rose-pink,"aug, oct",Plantaginaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,64
+Chelone obliqua L.,Chelone obliqua,Rose-pink,"jul, sep",Plantaginaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,TRUE,4
+Chenopodiastrum hybridum (L.) S.Fuentes & al.,Chenopodium hybridum,Greenish,"jul,oct",Amaranthaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Chenopodium album L.,Chenopodium album,Greenish,"jul,sep",Amaranthaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,59
+Chimaphila maculata (L.) Pursh,Chimaphila maculata,"White, pinkish","jun,aug",Ericaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,2464
+Chimaphila umbellata (L.) Nutt.,Chimaphila umbellata,"White, pinkish","jun,aug",Ericaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Chrysogonum virginianum L.,Chrysogonum virginianum,Bright yellow,"mar,jun",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,111
+Chrysopsis mariana (L.) Elliott,Chrysopsis mariana,Yellow,"aug,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,55
+Chrysosplenium americanum Schwein. ex Hook.,Chrysosplenium americanum,"Greenish, yellowish","apr, jun",Saxifragaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,185
+Cichorium intybus L.,Cichorium intybus,"Blue, white","jun,oct",Asteraceae,blue,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,TRUE,4299
+Cicuta bulbifera L.,Cicuta bulbifera,White,"jul, sep",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,81
+Cicuta maculata L.,Cicuta maculata,White,"jun, aug",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,264
+Circaea alpina L.,Circaea alpina,White,"may, aug",Onagraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,113
+Circaea lutetiana L.,Circaea lutetiana,White,"jun, aug",Onagraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Cirsium altissimum (L.) Hill,Cirsium altissimum,"Purple, white","jul,sep",Asteraceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,19
+Cirsium arvense (L.) Scop.,Cirsium arvense,"Purple, white","jun,oct",Asteraceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,TRUE,1366
+Cirsium discolor (Muhl. ex Willd.) Spreng.,Cirsium discolor,"Purple, white","jul,oct",Asteraceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,636
+Cirsium horridulum Michx.,Cirsium horridulum,Yellow,"may,aug",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,181
+Cirsium muticum Michx.,Cirsium muticum,Purple,"jul,oct",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,200
+Cirsium pumilum (Nutt.) Spreng.,Cirsium pumilum,Purple,"jun,aug",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,94
+Cirsium vulgare (Savi) Ten.,Cirsium vulgare,"Purple, white","jun,oct",Asteraceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,1451
+Claytonia caroliniana Michx.,Claytonia caroliniana,"Pink, white","apr,jun",Montiaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,2460
+Claytonia virginica L.,Claytonia virginica,"Pink, white","apr,jun",Montiaceae,pink,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,7864
+Clinopodium vulgare L.,Clinopodium vulgare,"Pinkish, lilac","jul, aug",Lamiaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,TRUE,736
+Clintonia borealis (Aiton) Raf.,Clintonia borealis,Greenish yellow,"may,jun",Liliaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,2553
+Clintonia umbellulata (Michx.) Morong,Clintonia umbellulata,White,"may,jun",Liliaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,63
+Collinsia verna Nutt.,Collinsia verna,"Pale purple, violet","apr, jun",Plantaginaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,283
+Collinsonia canadensis L.,Collinsonia canadensis,Light-yellow,"jul, sep",Lamiaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,345
+Comandra umbellata (L.) Nutt.,Comandra umbellata,Greenish white,"may, jul",Comandraceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,291
+Comarum palustre L.,Potentilla palustris,Purple,"jun, aug",Rosaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,123
+Commelina communis L.,Commelina communis,Blue,"July, October",Commelinaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,TRUE,2519
+Commelina virginica L.,Commelina virginica,Blue,"may, oct",Commelinaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,20
+Conium maculatum L.,Conium maculatum,White,"jun, aug",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,155
+Conoclinium coelestinum (L.) DC.,Eupatorium coelestinum,"Blue, violet","jul,oct",Asteraceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,569
+Conopholis americana (L.) Wallr.,Conopholis americana,Yellow,"February, June",Orobanchaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,385
+Convallaria majalis L.,Convallaria majalis,White,"may,jun",Ruscaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,703
+Coptis trifolia (L.) Salisb.,Coptis groenlandica,White,"apr, jul",Ranunculaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,969
+Corallorhiza maculata (Raf.) Raf.,Corallorhiza maculata,"White, purple","June, August",Orchidaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,112
+Corallorhiza odontorhiza (Willd.) Nutt.,Corallorhiza odontorhiza,"White, purple","August, October",Orchidaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,47
+Corallorhiza trifida Châtel.,Corallorhiza trifida,"Purplish, yellow-green","May, June",Orchidaceae,yellow,0,0,1,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,57
+Corallorhiza wisteriana Conrad,Corallorhiza wisteriana,"White, purple","January, July",Orchidaceae,purple,0,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,18
+Coreopsis major Walter,Coreopsis major,Yellow,"may,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,4
+Coreopsis rosea Nutt.,Coreopsis rosea,"Rose, white","jun,sep",Asteraceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,35
+Coreopsis tripteris L.,Coreopsis ltripteris,Yellow,"jul,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,304
+Cornus canadensis L.,Cornus canadensis,White,"may, sep",Cornaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,1520
+Corydalis aurea Willd.,Corydalis aurea,Golden-yellow,"feb, sep",Fumariaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,TRUE,40
+Corydalis flavula (Raf.) DC.,Corydalis flavula,Pale-yellow,"mar, may",Fumariaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,449
+Crepis capillaris (L.) Wallr.,Crepis capillaris,Yellow,"jun,nov",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,TRUE,4
+Crocanthemum canadense (L.) Britton,Helianthemum canadense,Yellow,"mar,jul",Cistaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,120
+Crotalaria sagittalis L.,Crotalaria sagittalis,Yellow,"June, September",Fabaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,17
+Cryptotaenia canadensis (L.) DC.,Cryptotaenia canadensis,White,"jun, jul",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,223
+Cunila origanoides (L.) Britton,Cunila origanoides,Purplish,"jul, sep",Lamiaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,62
+Cuphea viscosissima Jacq.,Cuphea viscosissima,Purple,"jul, oct",Lythraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,13
+Cynoglossum officinale L.,Cynoglossum officinale,Reddish-purple,"may, jul",Boraginaceae,red,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,55
+Cypripedium acaule Aiton,Cypripedium acaule,"Deep-rose, white","May, July",Orchidaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,6659
+Dactylorhiza viridis (L.) R.M.Bateman & al.,Coeloglossum viride,Green,"May, August",Orchidaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,17
+Datura stramonium L.,Datura stramonium,"White, violet, lavendar","jul, sep",Solanaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,310
+Daucus carota L.,Daucus carota,White,"jun, sep",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,3565
+Decodon verticillatus (L.) Elliott,Decodon verticillatus,Magenta,"jul,sep",Lythraceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,305
+Desmodium canadense (L.) DC.,Desmodium canadense,Rose-purple,"June, September",Fabaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,395
+Desmodium canescens (L.) DC.,Desmodium canescens,"Pink, green","July, September",Fabaceae,green,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,19
+Desmodium ciliare (Willd.) DC.,Desmodium ciliare,Purple,"June, October",Fabaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,3
+Desmodium glabellum (Michx.) DC.,Desmodium glabellum,Purple,"jun,sep",Fabaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,33
+Desmodium paniculatum (L.) DC.,Desmodium paniculatum,Purple,"July, September",Fabaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,170
+Desmodium sessilifolium Torr. & A.Gray,Desmodium sessilifolium,Purple,"July, August",Fabaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,TRUE,8
+Dianthus armeria L.,Dianthus armeria,Deep pink,"jun,sep",Caryophyllaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,2054
+Dianthus deltoides L.,Dianthus deltoides,Pink,"jun,aug",Caryophyllaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,495
+Diapensia lapponica L.,Diapensia lapponica,White,"jun, jul",Diapensiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,TRUE,306
+Dicentra canadensis (G.Don) Walp.,Dicentra canadensis,White,"April, May",Fumariaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,1537
+Dicentra cucullaria (L.) Bernh.,Dicentra cucullaria,White,"April, May",Fumariaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,5723
+Dicentra eximia (KerGawl.) Torr.,Dicentra eximia,Pink,"March, October",Fumariaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,169
+Dioscorea villosa L.,Dioscorea villosa,Greenish yellow,"jun,jul",Dioscoreaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,24
+Doellingeria infirma (Michx.) Greene,Aster infirmus,White,"jul,sep",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,3
+Doellingeria umbellata (Mill.) Nees,Aster umbellatus,White,"jul,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,1815
+Draba verna L.,Draba verna,White,"apr, may",Brassicaceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,589
+Drosera filiformis Raf.,Drosera filiformis,Purple,"jun, sep",Droseraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,49
+Drosera intermedia Hayne,Drosera intermedia,White,"jun, sep",Droseraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,85
+Drosera rotundifolia L.,Drosera rotundifolia,White,"jun, sep",Droseraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,93
+Drymocallis arguta (Pursh) Rydb.,Potentilla arguta,White,"jun, aug",Rosaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,95
+Dysphania botrys (L.) Mosyakin & Clemants,Chenopodium botrays,Greenish,"jun,sep",Amaranthaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Echinacea purpurea (L.) Moench,Echinacea purpurea,Reddish purple,"jul,oct",Asteraceae,red,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,758
+Echinocystis lobata (Michx.) Torr. & A.Gray,Echinocystis lobata,Greenish white,"jul,sep",Cucurbitaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,941
+Echium vulgare L.,Echium vulgare,Blue,"June, September",Boraginaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,905
+Enemion biternatum Raf.,Enemion biternatum,White,"apr, may",Ranunculaceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,889
+Epifagus virginiana (L.) W.P.C.Barton,Epifagus virginiana,"Whitish, purple-brown","July, October",Orobanchaceae,purple,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,254
+Epigaea repens L.,Epigaea repens,"Pink, white","apr, may",Ericaceae,pink,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,2830
+Epilobium ciliatum Raf.,Epilobium glandulosum,"Pink, lilac","jun, oct",Onagraceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,51
+Epilobium coloratum Biehler,Epilobium coloratum,"White, pink","jun, oct",Onagraceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,96
+Epilobium hirsutum L.,Epilobium hirsutum,Rose-purple,"jul, aug",Onagraceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,138
+Epilobium leptophyllum Raf.,Epilobium leptophyllum,"Pink, whitish","jun, aug",Onagraceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,8
+Epipactis helleborine (L.) Crantz,Epipactis helleborine,"Purple, green, purple","July, August",Orchidaceae,green,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,903
+Erigenia bulbosa (Michx.) Nutt.,Erigenia bulbosa,White,"apr, may",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,TRUE,672
+Erigeron annuus (L.) Desf.,Erigeron annuus,"White, pink","jun,oct",Asteraceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,1086
+Erigeron philadelphicus L.,Erigeron philadelphicus,"Pinkish, whitish","may,jun",Asteraceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,2897
+Erigeron pulchellus Michx.,Erigeron pulchellus,"Violet, lilac","apr,jun",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,563
+Erigeron strigosus Muhl. ex Willd.,Erigeron strigosus,"White, pink","jun,sep",Asteraceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,TRUE,867
+Eriocaulon aquaticum (Hill) Druce,Eriocaulon septangulare,Whitish,"jul,sep",Eriocaulaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,104
+Erodium cicutarium (L.) L'Hér. ex Aiton,Erodium cicutarium,"Pink, purple","jun,sepp",Geraniaceae,purple,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,TRUE,311
+Eryngium yuccifolium Michx.,Eryngium yuccifolium,White,"jul,aug",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,178
+Erysimum cheiranthoides L.,Erysimum cheiranthoides,Yellow,"jun, aug",Brassicaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,211
+Erythronium albidum Nutt.,Erythronium albidum,"White, blue","apr,may",Liliaceae,blue,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,1289
+Erythronium americanum KerGawl.,Erythronium americanum,Yellow,"apr,may",Liliaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,6586
+Eupatorium album L.,Eupatorium album,White,"jul,sep",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,12
+Eupatorium altissimum L.,Eupatorium altissimum,White,"aug,sep",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,122
+Eupatorium hyssopifolium L.,Eupatorium hyssopifolium,White,"jun,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,37
+Eupatorium perfoliatum L.,Eupatorium perfoliatum,White,"jul,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,1570
+Eupatorium rotundifolium L.,Eupatorium pubescens,White,"jul,sep",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,5
+Eupatorium serotinum Michx.,Eupatorium serotinum,White,"sep,nov",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,636
+Eupatorium sessilifolium L.,Eupatorium sessilifolium,White,"jul,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,56
+Euphorbia corollata L.,Euphorbia corollata,White,"jun, sep",Euphorbiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,TRUE,378
+Euphorbia cyparissias L.,Euphorbia cyparissias,"Yellowish, greenish","may,aug",Euphorbiaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,177
+Euphorbia helioscopia L.,Euphorbia helioscopia,Green,"may,oct",Euphorbiaceae,green,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,11
+Euphorbia maculata L.,Euphorbia supina,"Whitish, reddish","jun,sep",Euphorbiaceae,red,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,163
+Euphorbia marginata Pursh,Euphorbia marginata,White,"jun, oct",Euphorbiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,5
+Euphorbia peplus L.,Euphorbia peplus,Greenish yellow,"jun,sep",Euphorbiaceae,yellow,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,TRUE,3
+Euphorbia polygonifolia L.,Euphorbia polygonifolia,Greenish,"jul,aug",Euphorbiaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,16
+Euphrasia nemorosa (Pers.) Wallr.,Euphrasia nemorosa,"White, purple","jun, sep",Orobanchaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,68
+Eurybia macrophylla (L.) Cass.,Aster macrophyllus,"Violet, lavender","jul,oct",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,933
+Eurybia radula (Aiton) G.L.Nesom,Aster radula,Violet,"aug,sep",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,6
+Eurybia schreberi (Nees) Nees,Aster schreberi,White,"aug,sep",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,61
+Eurybia spectabilis (Aiton) G.L.Nesom,Aster spectabilis,Bright violet,"aug,nov",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,33
+Euthamia graminifolia (L.) Nutt.,Solidago graminifolia,Yellow,"jul,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,1405
+Fagopyrum esculentum Moench,Fagopyrum sagittatum,White,"jun, sep",Polygonaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,13
+Ficaria verna Huds.,Ranunculus ficaria,Yellow,"mar,may",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,7937
+Filipendula rubra (Hill) B.L.Rob.,Filipendula rubra,Deep pink,"jun, aug",Rosaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,TRUE,172
+Floerkea proserpinacoides Willd.,Floerkea proserpinacoides,White,"apr, jun",Limnanthaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,76
+Fragaria vesca L.,Fragaria vesca,White,"may, aug",Rosaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,244
+Fragaria virginiana Duchesne,Fragaria virginiana,White,"mar, nov",Rosaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,1480
+Fumaria officinalis L.,Fumaria officinalis,"Pinkish, crimson","jul, aug",Fumariaceae,red,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,6
+Galearis rotundifolia (Banks ex Pursh) R.M.Bateman,Orchis rotundifolia,"Rose, white, purple","June, July",Orchidaceae,purple,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,6
+Galearis spectabilis (L.) Raf.,Galearis spectabilis,Magenta,"May, June",Orchidaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,384
+Galeopsis tetrahit L.,Galeopsis tetrahit,"White, purple","jun, sep",Lamiaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,171
+Galinsoga quadriradiata Ruiz & Pav.,Galinsoga ciliata,White,"jun,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,509
+Galium aparine L.,Galium aparine,White,apr,Rubiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,2208
+Galium asprellum Michx.,Galium asprellum,White,"may, sep",Rubiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,68
+Galium boreale L.,Galium boreale,White,"may, sep",Rubiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,385
+Galium circaezans Michx.,Galium circaezans,Green,"jun, aug",Rubiaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,138
+Galium concinnum Torr. & A.Gray,Galium concinnum,White,"may, aug",Rubiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,TRUE,81
+Galium lanceolatum (Torr. & A.Gray) Torr.,Galium lanceolatum,Purple,"jun, jul",Rubiaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,TRUE,28
+Galium mollugo L.,Galium mollugo,White,"jun, sep",Rubiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Galium palustre L.,Galium palustre,White,"may, aug",Rubiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,71
+Galium pilosum Aiton,Galium pilosum,"Greenish-white, purple","jun, sep",Rubiaceae,green,0,0,0,1,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,41
+Galium tinctorium L.,Galium tinctorium,White,"apr, may",Rubiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0,TRUE,25
+Galium trifidum L.,Galium trifidum,White,"jun, jul",Rubiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,16
+Galium triflorum Michx.,Galium triflorum,Greenish-white,"may, sep",Rubiaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,337
+Galium verum L.,Galium verum,Yellow,"jun, aug",Rubiaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,87
+Gaultheria hispidula (L.) Muhl. ex Bigelow,Gaultheria hispidula,White,"may, jun",Ericaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,TRUE,13
+Gentiana andrewsii Griseb.,Gentiana andrewsii,"Blue, violet","jul, oct",Gentianaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,402
+Gentiana clausa Raf.,Gentiana clausa,"Blue, violet","aug, oct",Gentianaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,TRUE,262
+Gentiana linearis Froel.,Gentiana linearis,"Blue, violet","jul, sep",Gentianaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,258
+Gentiana saponaria L.,Gentiana saponaria,"Blue, violet","aug, nov",Gentianaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,TRUE,14
+Gentiana villosa L.,Gentiana villosa,"Greenish white, purple","aug, oct",Gentianaceae,green,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,TRUE,8
+Gentianella quinquefolia (L.) Small,Gentiana quinquefolia,"Pale violet, whitish","aug, oct",Gentianaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,82
+Gentianopsis crinita (Froel.) Ma,Gentiana crinita,Violet-blue,"aug, nov",Gentianaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,298
+Gentianopsis virgata (Raf.) Holub,Gentiana procera,Violet-blue,"aug,oct",Gentianaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,118
+Geranium bicknellii Britton,Geranium bicknellii,Pale purple,"may,sep",Geraniaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,76
+Geranium carolinianum L.,Geranium carolinianum,"Pale pink, pale purple","jun,aug",Geraniaceae,purple,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,168
+Geranium maculatum L.,Geranium maculatum,Rose purple,"may,jun",Geraniaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,3388
+Geranium molle L.,Geranium molle,Pale purple,"apr,sep",Geraniaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Geranium pusillum L.,Geranium pusillum,Pale purple,"jun,sep",Geraniaceae,purple,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,TRUE,8
+Geranium robertianum L.,Geranium robertianum,Rose-purple,"may,oct",Geraniaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,1649
+Geum aleppicum Jacq.,Geum aleppicum,Yellow,"jun, jul",Rosaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,103
+Geum canadense Jacq.,Geum canadense,White,"may, jul",Rosaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,757
+Geum fragarioides (Michx.) Smedmark,Waldsteinia fragarioides,Yellow,"may,jun",Rosaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,TRUE,324
+Geum laciniatum Murray,Geum laciniatum,White,"may, jun",Rosaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,TRUE,17
+Geum macrophyllum Willd.,Geum macrophyllum,Yellow,"jun, aug",Rosaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,34
+Geum peckii Pursh,Geum peckii,Yellow,"jun, aug",Rosaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,150
+Geum rivale L.,Geum rivale,Purplish,"jun, jul",Rosaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,131
+Geum vernum (Raf.) Torr. & A.Gray,Geum vernum,"Yellow, cream","mar, may",Rosaceae,yellow,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,76
+Geum virginianum L.,Geum virginianum,Greenish yellow,"jun, aug",Rosaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,4
+Gillenia stipulata (Muhl. ex Willd.) Nutt.,Gillenia stipulata,White,"may,jul",Rosaceae,white,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,13
+Gillenia trifoliata (L.) Moench,Gillenia trifoliata,White,"apr,jun",Rosaceae,white,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,33
+Glaucium flavum Crantz,Glaucium flavum,Yellow,"may, aug",Papaveraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,17
+Glechoma hederacea L.,Glechoma hederacea,"Blue, violet","apr, jun",Lamiaceae,blue,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,3767
+Gnaphalium uliginosum L.,Gnaphalium uliginosum,White,"jun,sep",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,11
+Goodyera oblongifolia Raf.,Goodyera oblongifolia,Whitish,"July, September",Orchidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,25
+Goodyera pubescens (Willd.) R.Br.,Goodyera pubescens,Whitish,"July, September",Orchidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,626
+Goodyera repens (L.) R.Br.,Goodyera repens,Whitish,"July, September",Orchidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,25
+Goodyera tesselata Lodd.,Goodyera tesselata,Whitish,"June, August",Orchidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,132
+Gratiola neglecta Torr.,Gratiola neglecta,"Yellowish, cream, white","may, oct",Plantaginaceae,yellow,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,TRUE,22
+Grindelia squarrosa (Pursh) Dunal,Grindelia squarrosa,Yellow,"jul,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,3
+Hackelia virginiana (L.) I.M.Johnst.,Hackelia virginiana,Whitish,"jun, aug",Boraginaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,220
+Halenia deflexa (Sm.) Griseb.,Halenia deflexa,"Purplish, greenish","jun, aug",Gentianaceae,green,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,28
+Halerpestes cymbalaria (Pursh) Greene,Ranunculus cymbalaria,Yellow,"may,aug",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,4
+Harrimanella hypnoides (L.) Coville,Cassiope hypnoides,White,"jun,aug",Ericaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,12
+Hedeoma pulegioides (L.) Pers.,Hedeoma pulegioides,"Bluish white, cream","jul, sep",Lamiaceae,blue,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,19
+Helenium amarum (Raf.) H.Rock,Helenium tenuifolium,Yellow,"mar,nov",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,3
+Helenium autumnale L.,Helenium autumnale,Yellow,"aug,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,700
+Helenium flexuosum Raf.,Helenium nudiflorum,Yellow,"apr,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,TRUE,75
+Helianthus angustifolius L.,Helianthus angustifolius,Yellow,"aug,nov",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,14
+Helianthus annuus L.,Helianthus annuus,Yellow,"aug,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,140
+Helianthus decapetalus L.,Helianthus decapetalus,Yellow,"jun,nov",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,77
+Helianthus divaricatus L.,Helianthus divericatus,Yellow,"jun,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,176
+Helianthus giganteus L.,Helianthus giganteus,Yellow,"jul,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,66
+Helianthus microcephalus Torr. & A.Gray,Helianthus microcephalus,Yellow,"aug,nov",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,14
+Helianthus strumosus L.,Helianthus strumosus,Yellow,"jul,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,38
+Helianthus tuberosus L.,Helianthus tuberosus,Yellow,"aug,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,178
+Heliopsis helianthoides (L.) Sweet,Heliopsis helianthoides,Yellow,"jun,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,509
+Helonias bullata L.,Helonias bullata,"Pink, purplish","apr,jun",Melanthiaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,TRUE,19
+Hemerocallis fulva (L.) L.,Hemerocallis fulva,Orange,"jun,aug",Hemerocallidaceae,orange,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,817
+Heracleum sphondylium L.,Heracleum maximum,White,"may, jul",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,6
+Hesperis matronalis L.,Hesperis matronalis,"Purple, pink, white","may, jul",Brassicaceae,purple,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,4476
+Heteranthera dubia (Jacq.) MacMill.,Heteranthera dubia,Pale yellow,"jul,oct",Pontederiaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,73
+Heterotheca subaxillaris (Lam.) Britton & Rusby,Heterotheca subaxillaris,Yellow,"mar,dec",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,55
+Heuchera americana L.,Heuchera americana,"Green, purplish","mar, aug",Saxifragaceae,green,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,60
+Hexasepalum teres (Walter) J.H.Kirkbr. & Delprete,Diodia teres,"White, pale-purple","jul, sep",Rubiaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,91
+Hibiscus laevis All.,Hibiscus militaris,Pink,"jul, sep",Malvaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,111
+Hibiscus trionum L.,Hibiscus trionum,Pale yellow,"jul, sep",Malvaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,449
+Hieracium canadense Froel.,Hieracium canadense,Yellow,"jun,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Hieracium lachenalii Suter,Hieracium vulgatum,Yellow,"jun,aug",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,25
+Hieracium scabrum Michx.,Hieracium scabrum,Yellow,"jul,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,194
+Hieracium venosum L.,Hieracium venosum,Yellow,"may,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,147
+Honckenya peploides (L.) Ehrh.,Arenaria peploides,White,"may,aug",Caryophyllaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,2
+Houstonia caerulea L.,Houstonia caerulea,"Pale-blue, white","apr, aug",Rubiaceae,blue,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,6467
+Houstonia canadensis Willd. ex Roem. & Schult.,Houstonia canadensis,"White, pale lilac","may, jun",Rubiaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,12
+Houstonia longifolia Gaertn.,Houstonia tenuifolia,"White, pale lilac","may, jul",Rubiaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,172
+Houstonia purpurea L.,Houstonia purpurea,"White, pale lilac","may, jun",Rubiaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,98
+Hudsonia ericoides L.,Hudsonia ericoides,Yellow,"may,jul",Cistaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,91
+Hudsonia tomentosa Nutt.,Hudsonia tomentosa,Bright yellow,"may,jul",Cistaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,81
+Hydrastis canadensis L.,Hydrastis canadensis,Greenish white,may,Ranunculaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,221
+Hydrocotyle americana L.,Hydrocotyle americana,Whitish,"may, aug",Araliaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,150
+Hydrocotyle umbellata L.,Hydrocotyle umbellata,Greenish-white,"apr, oct",Araliaceae,green,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,62
+Hydrophyllum appendiculatum Michx.,Hydrophyllum appendiculatum,Lavender,"may, jun",Hydrophyllaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,198
+Hydrophyllum canadense L.,Hydrophyllum canadense,"White, purplish","apr, jun",Hydrophyllaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,40
+Hydrophyllum macrophyllum Nutt.,Hydrophyllum macrophyllum,"White, lavendar","apr, jun",Hydrophyllaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,TRUE,33
+Hydrophyllum virginianum L.,Hydrophyllum virginianum,"White, lavendar","may, jun",Hydrophyllaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,737
+Hylodesmum glutinosum (Muhl. ex Willd.) H.Ohashi & R.R.Mill,Desmodium glutinosum,Purple,"jul, aug",Fabaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,416
+Hylodesmum nudiflorum (L.) H.Ohashi & R.R.Mill,Desmodium nudiflorum,Rose-purple,"July, September",Fabaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,199
+Hylotelephium telephioides (Michx.) H.Ohba,Sedum telephioides,"Pale-pink, white","aug, sep",Crassulaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,16
+Hylotelephium telephium (L.) H.Ohba,Sedum purpureum,Pink-purple,"jul, sep",Crassulaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,59
+Hypericum ascyron L.,Hypericum pyramidatum,Yellow,"jul,aug",Hypericaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,TRUE,67
+Hypericum canadense L.,Hypericum canadense,Yellow,"jun,sep",Hypericaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,62
+Hypericum denticulatum Walter,Hypericum deticulatum,Coppery yellow,"jun,sep",Hypericaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,TRUE,7
+Hypericum ellipticum Hook.,Hypericum ellipticum,Yellow,"jul,aug",Hypericaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,TRUE,61
+Hypericum gentianoides (L.) Britton & al.,Hypericum gentianoides,Yellow,"jul, oct",Hypericaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,92
+Hypericum majus (A.Gray) Britton,Hypericum majus,Yellow,"jun,sep",Hypericaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,7
+Hypericum mutilum L.,Hypericum mutilum,Yellow,"apr,oct",Hypericaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,175
+Hypericum perforatum L.,Hypericum perforatum,Yellow,"jun,sep",Hypericaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,1428
+Hypericum punctatum Lam.,Hypericum punctatum,Yellow,"jun,aug",Hypericaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,187
+Hypochaeris radicata L.,Hypochaeris radicata,Yellow,"may,nov",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,150
+Hypoxis hirsuta (L.) Coville,Hypoxis hirsuta,Yellow,"may,jul",Hypoxidaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,714
+Hyssopus officinalis L.,Hyssopus officinalis,Blue-purple,"jun, sep",Lamiaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,5
+Impatiens capensis Meerb.,Impatiens capensis,"Orange, red-brown","July, October",Balsaminaceae,red,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,6102
+Impatiens pallida Nutt.,Impatiens pallida,Yellow,"June, October",Balsaminaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,1460
+Inula helenium L.,Inula helenium,Yellow,"jul,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,328
+Iris cristata Aiton,Iris cristata,"Blue, orange, white","mar, may",Iridaceae,orange,0,1,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,51
+Iris domestica (L.) Goldblatt & Mabb.,Belamcanda chinensis,"Orange, red","jul,aug",Iridaceae,red,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,47
+Iris prismatica Pursh,Iris prismatica,Blue,"may, jul",Iridaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,16
+Iris pseudacorus L.,Iris pseudacorus,Yellow,"may, jun",Iridaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,869
+Iris verna L.,Iris verna,"Blue, violet, yellow","apr,may",Iridaceae,yellow,0,0,1,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,33
+Iris versicolor L.,Iris versicolor,"Blue, yellow","may, aug",Iridaceae,yellow,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,1278
+Isotria medeoloides (Pursh) Raf.,Isotria medeoloides,"Yellowish, green","may, jun",Orchidaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,8
+Isotria verticillata (Muhl. ex Willd.) Raf.,Isotria verticillata,"Yellowish, greenish","apr, jun",Orchidaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,47
+Jeffersonia diphylla (L.) Pers.,Jeffersonia diphylla,White,"apr,may",Berberidaceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,273
+Knautia arvensis (L.) Coult.,Knautia arvensis,Lilac-purple,"jun, sep",Dipsacaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,12
+Krigia biflora (Walter) S.F.Blake,Krigia biflora,Orange-yellow,"may,aug",Asteraceae,orange,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,245
+Krigia dandelion (L.) Nutt.,Cacalia tuberosa,Whitish,"apr,jun",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,10
+Krigia virginica (L.) Willd.,Krigia virginica,Yellow,"apr,aug",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,TRUE,125
+Lachnanthes caroliniana (Lam.) Dandy,Lachnanthes caroliana,Dull yellow,"jun, aug",Haemodoraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,20
+Lactuca biennis (Moench) Fernald,Lactuca biennis,Blue,"jul,sep",Asteraceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,123
+Lactuca canadensis L.,Lactuca canadensis,"Pale yellow, reddish yellow","jul,sep",Asteraceae,red,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,90
+Lactuca serriola L.,Lactuca scariola,Yellow,"jul,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,172
+Lamium album L.,Lamium album,White,"mar, nov",Lamiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Lamium amplexicaule L.,Lamium amplexicaule,"Purplish, reddish","may, oct",Lamiaceae,red,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,TRUE,1501
+Lamium purpureum L.,Lamium purpureum,"Purplish, reddish","apr, oct",Lamiaceae,red,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,5197
+Laportea canadensis (L.) Wedd.,Laportea canadensis,Greenish,"jul,aug",Urticaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,191
+Lappula squarrosa (Retz.) Dumort.,Lappula echinata,Blue,"may, sep",Boraginaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,3
+Lapsana communis L.,Lapsana communis,Yellow,"jun,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,787
+Lechea intermedia Legg.,Lechea intermedia,Pinkish red,"jun,aug",Cistaceae,red,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Lechea mucronata Raf.,Lechea illosa,"Reddish, brown","jun,sep",Cistaceae,red,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Lechea tenuifolia Michx.,Lechea tenuifolia,"Reddish, greenish","jul,aug",Cistaceae,red,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Leonurus cardiaca L.,Leonurus cardiaca,"Lilac, pale-purple","jun, aug",Lamiaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,559
+Lepidium campestre (L.) R.Br.,Lepidium campestre,White,"apr, jun",Brassicaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,110
+Lepidium virginicum L.,Lepidium virginicum,White,"may, sep",Brassicaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,125
+Lespedeza capitata Michx.,Lespedeza capitata,"Creamy-white, purple","July, September",Fabaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,104
+Lespedeza hirta (L.) Hornem.,Lespedeza hirta,White,August,Fabaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,27
+Lespedeza procumbens Michx.,Lespedeza procumbens,"Purple, pink","July, October",Fabaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,21
+Lespedeza repens (L.) W.P.C.Barton,Lespedeza repens,"Purple, pink","May, September",Fabaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0,TRUE,15
+Lespedeza violacea (L.) Pers.,Lespedeza violacea,Violet-purple,"June, October",Fabaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,24
+Lespedeza virginica (L.) Britton,Lespedeza virginica,Violet-purple,"July, September",Fabaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,55
+Leucanthemum vulgare Lam.,Chrysanthemum leucanthemum,White,"jun,aug",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,2184
+Liatris aspera Michx.,Liatris aspera,Purple,"jul,sep",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,170
+Liatris pilosa (Aiton) Willd.,Liatris graminifolia,Purple,"aug,sep",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,20
+Liatris spicata (L.) Willd.,Liatris spicata,Purple,"jul,nov",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,163
+Ligusticum scoticum L.,Ligusticum scothicum,White,"jun, aug",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,7
+Lilium canadense L.,Lilium canadense,"Yellow, red","jun,aug",Liliaceae,red,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,627
+Lilium lancifolium Thunb.,Lilium tigrinum,Red-orange,"jul,aug",Liliaceae,red,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,72
+Lilium michiganense Farw.,Lilium michiganense,Orange-red,"jun,aug",Liliaceae,red,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,323
+Lilium philadelphicum L.,Lilium philadelphicum,"Orange-red, purple","jun,aug",Liliaceae,red,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,1145
+Lilium superbum L.,Lilium superbum,Orange-red,"jul,sep",Liliaceae,red,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,TRUE,136
+Limonium carolinianum (Walter) Britton,Limonium nashii,"Purple, lavendar","jun, dec",Plumbaginaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,208
+Limosella australis R.Br.,Limosella subulata,White,"jul, oct",Scrophulariaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,5
+Linaria vulgaris Mill.,Linaria vulgaris,"Yellow, orange","June, October",Plantaginaceae,orange,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,2084
+Lindernia dubia (L.) Pennell,Lindernia dubia,"Pale-purple, white","jul, sep",Linderniaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,156
+Linnaea borealis L.,Linnaea borealis,Pink,"jun,aug",Linnaeaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,527
+Linum usitatissimum L.,Linum usitatissimum,Blue,"jun, jul",Linaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,9
+Linum virginianum L.,Linum virginianm,Yellow,"jun, oct",Linaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Liparis liliifolia (L.) Rich. ex Lindl.,Liparis liliifolia,Purplish-brown,"June, July",Orchidaceae,purple,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,63
+Liparis loeselii (L.) Rich.,Liparis loeselii,Yellowish-green,"June, July",Orchidaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,41
+Lithospermum canescens (Michx.) Lehm.,Lithospermum canescens,Orange-yellow,"apr, jul",Boraginaceae,orange,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,478
+Lithospermum officinale L.,Lithospermum officiale,Whitish,"jun, jul",Boraginaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,27
+Lobelia cardinalis L.,Lobelia cardinalis,Scarlet,"May, October",Campanulaceae,red,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,2573
+Lobelia dortmanna L.,Lobelia dortmanna,"Pale-violet, white","July, September",Campanulaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,92
+Lobelia inflata L.,Lobelia inflata,Light blue,"June, October",Campanulaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,1460
+Lobelia kalmii L.,Lobelia kalmii,Blue,"July, October",Campanulaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,533
+Lobelia nuttallii Schult.,Lobelia nuttallii,Blue,"July, November",Campanulaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,TRUE,49
+Lobelia puberula Michx.,Lobelia puberula,Blue,"August, October",Campanulaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,129
+Lobelia siphilitica L.,Lobelia siphilitica,Blue,"July, October",Campanulaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,2178
+Lobelia spicata Lam.,Lobelia spicata,Light blue,"June, July",Campanulaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,491
+Lotus corniculatus L.,Lotus corniculatus,Bright-yellow,"June, August",Fabaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Ludwigia alternifolia L.,Ludwigia alternifolia,Yellow,"jun, aug",Onagraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,100
+Ludwigia palustris (L.) Elliott,Ludwigia palustris,Green,"mar, may",Onagraceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,TRUE,16
+Lupinus perennis L.,Lupinus perennis,Blue,"April, July",Fabaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,573
+Lupinus polyphyllus Lindl.,Lupinus polyphyllus,"Blue-violet, white",May,Fabaceae,blue,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,321
+Lycopus americanus Muhl. ex W.P.C.Barton,Lycopus americanus,White,"jun, sep",Lamiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,203
+Lycopus amplectens Raf.,Lycopus amplectens,White,"aug, oct",Lamiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,TRUE,2
+Lycopus uniflorus Michx.,Lycopus uniflorus,White,"jul, sep",Lamiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,178
+Lycopus virginicus L.,Lycopus virginicus,White,"jun, aug",Lamiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,13
+Lysimachia ciliata L.,Lysimachia ciliata,Yellow,"jun,aug",Myrsinaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,2408
+Lysimachia hybrida Michx.,Lysimachia hybrida,Yellow,"jul,aug",Myrsinaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,21
+Lysimachia nummularia L.,Lysimachia nummularia,Yellow,"jun,aug",Myrsinaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,602
+Lysimachia quadrifolia L.,Lysimachia quadrifolia,Yellow,"jun,jul",Myrsinaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,1103
+Lysimachia terrestris (L.) Britton & al.,Lysimachia terrestris,Yellow,"jun,aug",Myrsinaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,1021
+Lysimachia thyrsiflora L.,Lysimachia thrysiflora,Yellow,"may,jul",Myrsinaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,TRUE,288
+Lythrum alatum Pursh,Lythrum alatum,Purple,"jun,sep",Lythraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,92
+Lythrum hyssopifolia L.,Lythrum hyssopifolia,Purple,"apr,oct",Lythraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,TRUE,9
+Lythrum lineare L.,Lythrum lineare,"Light purple, white","jun,nov",Lythraceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,9
+Lythrum salicaria L.,Lythrum salicaria,Purple,"jul,sep",Lythraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Maianthemum racemosum (L.) Link,Smilacina racemosa,White,"may,jun",Ruscaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,1216
+Maianthemum stellatum (L.) Link,Smilacina stellata,White,"may,jun",Ruscaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,620
+Maianthemum trifolium (L.) Sloboda,Smilacina trifolia,White,"may,jun",Ruscaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,101
+Malaxis monophyllos (L.) Sw.,Malaxis monophyllos,Greenish-white,"June, July",Orchidaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Malaxis unifolia Michx.,Malaxis unifolia,Green,"March, October",Orchidaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Malva moschata L.,Malva moschata,"White, pink","jun, sep",Malvaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Malva neglecta Wallr.,Malva neglecta,"Pale lilac, white","may, oct",Malvaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,306
+Malva sylvestris L.,Malva sylvestris,Rose-purple,"jun, sep",Malvaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,83
+Matricaria chamomilla L.,Matricaria chamomilla,White,"jun,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,0,TRUE,7
+Matricaria discoidea DC.,Matricaria discoidea,Yellow,"may,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,TRUE,364
+Medicago lupulina L.,Medicago lupulina,Yellow,"May, September",Fabaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,1364
+Medicago sativa L.,Medicago sativa,"Purple, blue-violet","June, September",Fabaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,TRUE,369
+Meehania cordata (Nutt.) Britton,Meehania cordata,Light-purple,"may, jun",Lamiaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,32
+Melampyrum lineare Desr.,Melampyrum lineare,"Whitish, yellow","jun, aug",Orobanchaceae,yellow,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,671
+Menispermum canadense L.,Menispermum canadense,Whitish,"may,jul",Menispermaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,64
+Mentha arvensis L.,Mentha arvensis,Lilac,"jul, sep",Lamiaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,49
+Mentha spicata L.,Mentha spicata,"Purplish, pinkish","jul, sep",Lamiaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,32
+Menyanthes trifoliata L.,Menyanthes trifoliata,White,"apr, aug",Menyanthaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,475
+Mertensia maritima (L.) Gray,Mertensia maritima,Pale-blue,"may, jul",Boraginaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,7
+Mertensia virginica (L.) Pers. ex Link,Mertensia virginica,Blue,"apr, jun",Boraginaceae,blue,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,4388
+Micranthes micranthidifolia (Haw.) Small,Saxifraga micranthidifolia,White,"mar, jun",Saxifragaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,16
+Micranthes pensylvanica (L.) Haw.,Saxifraga pensylvanica,Greenish,"mar, jun",Saxifragaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,133
+Micranthes virginiensis (Michx.) Small,Saxifraga virginiensis,White,"apr, jun",Saxifragaceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,1221
+Mimulus alatus Aiton,Mimulus alatus,"Violet, pinkish","jun, nov",Phrymaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,488
+Mimulus ringens L.,Mimulus ringens,"Violet, pinkish","jun, sep",Phrymaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,3752
+Mirabilis nyctaginea (Michx.) MacMill.,Mirabilis nyctaginea,"Pink, purple","may, sep",Nyctaginaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,104
+Mitchella repens L.,Mitchella repens,"White, pinkish","may, oct",Rubiaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,TRUE,1150
+Mitella diphylla L.,Mitella diphylla,White,"apr,jun",Saxifragaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,1065
+Mitella nuda L.,Mitella nuda,Greenish,"may, aug",Saxifragaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,79
+Miyamayomena simplex (Hand.-Mazz.) Y.L.Chen,Aster simplex,"White, violet","jun,sep",Asteraceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Mollugo verticillata L.,Mollugo verticillata,White,"jun,sep",Molluginaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,242
+Monarda clinopodia L.,Monarda clinopodia,"Whitish, pinkish","jul, sep",Lamiaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,95
+Monarda didyma L.,Monarda didyma,Scarlet,"may, oct",Lamiaceae,red,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,458
+Monarda fistulosa L.,Monarda fistulosa,"Lilac, pink","may, sep",Lamiaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,2102
+Monarda media Willd.,Monarda media,Deep red-purple,"jun, aug",Lamiaceae,red,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,5
+Monarda punctata L.,Monarda punctata,"Yellowish, purple","apr, aug",Lamiaceae,yellow,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,319
+Moneses uniflora (L.) A.Gray,Moneses uniflora,"White, light-rose","may, aug",Ericaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,83
+Monotropa uniflora L.,Monotropa uniflora,"White, pinkish","jun, sep",Ericaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,2358
+Muscari botryoides (L.) Mill.,Muscari botryoides,Deep blue,"apr,may",Hyacinthaceae,blue,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,78
+Myosotis laxa Lehm.,Myosotis laxa,Blue,"may, sep",Boraginaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,19
+Myosotis scorpioides L.,Myosotis scorpioides,Blue,"may, sep",Boraginaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,221
+Myosotis verna Nutt.,Myosotis verna,White,"apr, jul",Boraginaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,6
+Nabalus serpentarius (Pursh) Hook.,Prenanthes serptentaria,Creamy white,"aug,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,28
+Nabalus trifoliolatus Cass.,Prenanthes trifoliata,Creamy white,"aug,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,54
+Nasturtium officinale R.Br.,Nasturtium offinale,White,"mar,oct",Brassicaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,56
+Nelumbo lutea (Willd.) Pers.,Nelumbo lutea,Pale yellow,"jul,sep",Nelumbonaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,181
+Nemophila aphylla (L.) Brummitt,Galax aphylla,White,"mar,may",Hydrophyllaceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,2
+Neottia bifolia (Raf.) Baumbach,Listera australis,Greenish-purple,"jan, jul",Orchidaceae,green,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,70
+Neottia convallarioides (Sw.) Rich.,Listera convallarioides,Yellow-green,"jun, aug",Orchidaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,TRUE,4
+Neottia cordata (L.) Rich.,Listera cordata,Purplish,"jun, aug",Orchidaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,TRUE,22
+Nepeta cataria L.,Nepeta cataria,"Whitish, pale-lilac","jul, oct",Lamiaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,307
+Nuphar advena (Aiton) W.T.Aiton,Nuphar advena,Yellow,"jun, aug",Nymphaeaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,95
+Nuphar microphylla (Pers.) Fernald,Nuphar microphyllum,Yellow,"jun,sep",Nymphaeaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,10
+Nuttallanthus canadensis (L.) D.A.Sutton,Nuttallanthus canadensis,Blue,"May, July",Plantaginaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,755
+Nymphaea odorata Aiton,Nymphaea odorata,"White, pinkish","jun,sep",Nymphaeaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,1472
+Nymphoides cordata (Elliott) Fernald,Nymphoides cordata,White,"jun, sep",Menyanthaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,44
+Oclemena acuminata (Michx.) Greene,Aster acuminatus,"White, purple","aug,sep",Asteraceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,966
+Oclemena nemoralis (Dryand. ex Aiton) Greene,Aster nemoralis,"Light violet, purple","jun,sep",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,160
+Odontites vulgaris Moench,Odontites serotina,"Pink, rose","jun,aug",Orobanchaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,36
+Oenothera biennis L.,Oenothera biennis,Yellow,"jul, oct",Onagraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,756
+Oenothera fruticosa L.,Oenothera fruticosa,Yellow,"apr, sep",Onagraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,48
+Oenothera gaura W.L.Wagner & Hoch,Gaura biennis,"White, pink","jun, aug",Onagraceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,144
+Oenothera humifusa Nutt.,Oenothera humifusa,Yellow,"jun, sep",Onagraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,TRUE,2
+Oenothera laciniata Hill,Oenothera laciniata,Yellow,"feb, oct",Onagraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,28
+Oenothera perennis L.,Oenothera perennis,Yellow,"jun, aug",Onagraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,82
+Opuntia humifusa (Raf.) Raf.,Opuntia humifusa,Yellow,"jun,jul",Cactaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,229
+Origanum vulgare L.,Origanum vulgare,"Pink, purplish","jul, oct",Lamiaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,123
+Ornithogalum umbellatum L.,Ornithogalum umbellatum,White,"may,jun",Hyacinthaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Orontium aquaticum L.,Orontium aquaticum,Yellow,"apr,jun",Araceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,67
+Orthilia secunda (L.) House,Pyrola secunda,"White, greenish","jun, aug",Ericaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,18
+Osmorhiza claytonii (Michx.) C.B.Clarke,Osmorhiza claytoni,White,"may, jun",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,98
+Osmorhiza longistylis (Torr.) DC.,Osmorhiza longistylis,White,"may, jun",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,230
+Oxalis acetosella L.,Oxalis montana,White,"may, jul",Oxalidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Oxalis corniculata L.,Oxalis corniculata,Yellow,"jun, sep",Oxalidaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,107
+Oxalis grandis Small,Oxalis grandis,Yellow,"jun, sep",Oxalidaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,19
+Oxalis violacea L.,Oxalis violaceae,Purple,"apr, oct",Oxalidaceae,purple,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,383
+Oxybasis glauca (L.) S.Fuentes & al.,Chenopodium glaucum,Greenish,"jul,sep",Amaranthaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,4
+Oxybasis rubra (L.) S.Fuentes & al.,Chenopodium rubrum,Greenish,"jul,sep",Amaranthaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Oxypolis rigidior (L.) Raf.,Oxypolis rigidior,White,"jul, aug",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,46
+Packera aurea (L.) Á.Löve & D.Löve,Packera aurea,Yellow,"may,jul",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,654
+Packera obovata (Muhl. ex Willd.) W.A.Weber & Á.Löve,Senecio obovatus,Yellow,"feb,jun",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,93
+Packera schweinitziana (Nutt.) W.A.Weber & Á.Löve,Senecio robbinsii,Yellow,"may,jul",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,32
+Panax quinquefolius L.,Panax quinquefolius,Green,"jun,jul",Araliaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,42
+Panax trifolius L.,Panax trifolium,White,"may,jun",Araliaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,2077
+Parnassia glauca Raf.,Parnassia glauca,White,"aug, sep",Celastraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,907
+Paronychia canadensis (L.) Alph.Wood,Paronychia canadensis,Green,"jun,sep",Caryophyllaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,7
+Parthenium integrifolium L.,Parthenium integrifolium,White,"jun, sep",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,146
+Pastinaca sativa L.,Pastinaca sativa,Yellow,"jun, jul",Apiaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,805
+Pedicularis canadensis L.,Pedicularis canadensis,"Yellow, reddish","April, May",Orobanchaceae,red,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,452
+Pedicularis lanceolata Michx.,Pedicularis lanceolata,Pale-yellow,"aug, sep",Orobanchaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,97
+Peltandra virginica (L.) Schott,Peltandra virginica,White,"April, June",Araceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,8
+Penstemon canescens (Britton) Britton,Penstemon canascens,"Pale purple, violet","may, jun",Plantaginaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,13
+Penstemon digitalis Nutt. ex Sims,Penstemon digitalis,"White, purple","may, jul",Plantaginaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,975
+Penstemon hirsutus (L.) Willd.,Penstemon hirsutus,"Purplish, violet, white","jun, jul",Plantaginaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,239
+Penstemon laevigatus Aiton,Penstemon laevigatus,"Pale purple, violet","may, jul",Plantaginaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,TRUE,5
+Penthorum sedoides L.,Penthorum sedoides,Yellowish green,"jul, sep",Penthoraceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,352
+Persicaria amphibia (L.) Delarbre,Polygonum amphibium,Rose,"jun, sep",Polygonaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,404
+Persicaria arifolia (L.) Haraldson,Polygonum arifolium,"White, pink","jul,sep",Polygonaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,40
+Persicaria hydropiper (L.) Delarbre,Polygonum hydropiper,Green,"jul, sep",Polygonaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,18
+Persicaria hydropiperoides (Michx.) Small,Polygonum hydropiperoides,"Pink, purplish, white, greenish","jun, nov",Polygonaceae,green,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,40
+Persicaria lapathifolia (L.) Delarbre,Polygonum lapathifolium,"Pink, whitish, purplish","apr, nov",Polygonaceae,purple,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,82
+Persicaria maculosa (L.) Gray,Polygonum persicaria,"Pink, purple","jun, sep",Polygonaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,197
+Persicaria orientalis (L.) Spach,Polygonum orientale,Rose,"jun, oct",Polygonaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,10
+Petasites frigidus (L.) Fr.,Petasites palmatus,Cream,"may,jun",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,39
+Phacelia bipinnatifida Michx.,Phacelia bipinnatifida,Blue,"mar, jun",Hydrophyllaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,61
+Phacelia dubia (L.) Trel. & Small,Phacelia dubia,Blue,"apr, jun",Hydrophyllaceae,blue,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,36
+Phacelia purshii Buckley,Phacelia purshii,Blue,"apr, may",Hydrophyllaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,218
+Phemeranthus teretifolius (Pursh) Raf.,Talinum teretifolium,Deep pink,"apr, oct",Montiaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,82
+Phlox bifida L.C.Beck,Phlox bifida,Pale purple,"apr, jun",Polemoniaceae,purple,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,75
+Phlox divaricata L.,Phlox divaricata,"Blue, purple","apr, jun",Polemoniaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,1746
+Phlox glaberrima L.,Phlox glaberrima,"Pink, purple","apr, jun",Polemoniaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,36
+Phlox maculata L.,Phlox maculata,"Purple, pink","jun, jul",Polemoniaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,67
+Phlox ovata L.,Phlox ovata,"Deep pink, purple","may, jun",Polemoniaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,8
+Phlox paniculata L.,Phlox paniculata,Magenta-pink,"jul, sep",Polemoniaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,852
+Phlox pilosa L.,Phlox pilosa,"Pink, purple","may, jul",Polemoniaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,252
+Phlox stolonifera Sims,Phlox stolonifera,"Violet, purple","apr, sep",Polemoniaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,38
+Phlox subulata L.,Phlox subulata,"Rose-magenta, white",may,Polemoniaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,2244
+Phryma leptostachya L.,Phryma leptostachya,"Lavender, puplish","jul, sep",Phrymaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,269
+Physalis heterophylla Nees,Physalis heterophylla,Greenish yellow,"jun, sep",Solanaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,203
+Physalis longifolia Nutt.,Physalis subglabrata,Greenish yellow,"jul, sep",Solanaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,195
+Physalis virginiana Mill.,Physalis virginiana,Greenish yellow,"jun, aug",Solanaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,36
+Physostegia virginiana (L.) Benth.,Physostegia virginiana,"Pale-purple, rose","aug, nov",Lamiaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,585
+Phytolacca americana L.,Phytolacca americana,"White, pinkish","jun, nov",Phytolaccaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,1,0,0,0,TRUE,1354
+Pilea pumila (L.) A.Gray,Pilea pumila,"Whitish, greenish","jul,sep",Urticaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,78
+Pilosella aurantiaca (L.) F.W.Schultz & Sch.Bip.,Hieracium aurantiacum,Red-orange,"jun,oct",Asteraceae,red,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,1432
+Pilosella caespitosa (Dumort.) P.D.Sell & C.West,Hieracium pratense,Yellow,"may,jul",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,315
+Pilosella floribunda (Wimm. & Grab.) Arv.-Touv.,Hieracium floribundum,Yellow,"jun,jul",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,79
+Pilosella officinarum Vaill.,Hieracium pilosella,Yellow,"jun,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,75
+Pinguicula vulgaris L.,Pinguicula vulgaris,Violet,"June, July",Lentibulariaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,29
+Pityopsis falcata (Pursh) Nutt.,Chrysopsis falcata,Yellow,"jul,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,126
+Plantago aristata Michx.,Plantago aristata,Greenish white,"jun,sep",Plantaginaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,42
+Plantago lanceolata L.,Plantago lanceolata,Greenish white,"jun,oct",Plantaginaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,1056
+Plantago major L.,Plantago major,Greenish white,"jun,oct",Plantaginaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,130
+Plantago maritima L.,Plantago juncoides,Greenish white,"may,sep",Plantaginaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,20
+Plantago rugelii Decne.,Plantago rugelii,Greenish white,"jun,oct",Plantaginaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,144
+Platanthera blephariglottis (Willd.) Lindl.,Platanthera blephariglottis,White,"June, August",Orchidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,164
+Platanthera ciliaris (L.) Lindl.,Platanthera ciliaris,"Yellow, orange","July, September",Orchidaceae,orange,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,126
+Platanthera clavellata (Michx.) Luer,Platanthera clavellata,Greenish white,"June, August",Orchidaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,182
+Platanthera dilatata (Pursh) Lindl. ex L.C.Beck,Platanthera dilatata,White,"June, September",Orchidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,109
+Platanthera flava (L.) Lindl.,Habenaria flava,Yellow-green,July,Orchidaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,TRUE,22
+Platanthera grandiflora (Bigelow) Lindl.,Platanthera grandiflora,"Magenta, purple","June, August",Orchidaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,176
+Platanthera hookeri (Torr.) Lindl.,Platanthera hookeri,Yellow-green,"June, July",Orchidaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,11
+Platanthera lacera (Michx.) G.Don,Platanthera lacera,Greenish white,"June, September",Orchidaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,210
+Platanthera leucophaea (Nutt.) Lindl.,Platanthera leucophaea,Creamy white,"June, August",Orchidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,58
+Platanthera orbiculata (Pursh) Lindl.,Platanthera orbiculata,Greenish-white,"July, August",Orchidaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,36
+Platanthera peramoena A.Gray,Platanthera peramoena,Rose-purple,"July, August",Orchidaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,TRUE,45
+Platanthera psycodes (L.) Lindl.,Platanthera psycodes,"Magenta, purple","July, August",Orchidaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,268
+Pluchea odorata (Willd. ex L.) Cass.,Pluchea purpurascens,"Purple, pink","jul,oct",Asteraceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,133
+Podophyllum peltatum L.,Podophyllum peltatum,White,"may,jun",Berberidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,1565
+Polanisia dodecandra (L.) DC.,Polanisia graveolens,Whitish,"may, oct",Cleomaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,44
+Polemonium reptans L.,Polemonium reptans,Deep blue,"may, jul",Polemoniaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,865
+Polemonium vanbruntiae Britton,Polemonium van-brunitiae,Blue-purple,"jun, jul",Polemoniaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,45
+Polygala brevifolia Nutt.,Polygala brevifolia,Rose-purple,"jun, sep",Polygalaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,18
+Polygala cruciata L.,Polygala cruciata,"Purplish, greenish","jul, oct",Polygalaceae,green,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,TRUE,41
+Polygala curtissii A.Gray,Polygala curtissii,"White, pinkish purple","jun,oct",Polygalaceae,purple,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,13
+Polygala lutea L.,Polygala lutea,Orange-yellow,"June, October",Polygalaceae,orange,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,83
+Polygala nuttallii Torr. & A.Gray,Polygala nuttallii,"Purplish, greenish-white","July, September",Polygalaceae,green,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,23
+Polygala polygama Walter,Polygala polygama,"Rose-purple, white","April, June",Polygalaceae,purple,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,TRUE,121
+Polygala sanguinea L.,Polygala sanguinea,"Rose-purple, green","June, October",Polygalaceae,green,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,367
+Polygala senega L.,Polygala senega,"White, greenish-white","June, July",Polygalaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,203
+Polygala verticillata L.,Polygala verticillata,"Greenish, whitish, purple","jul, oct",Polygalaceae,green,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,69
+Polygaloides paucifolia (Willd.) J.R.Abbott,Polygala paucifolia,Rose-purple,"May, June",Polygalaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,1564
+Polygonatum biflorum (Walter) Elliott,Polygonatum canaliculatum,Greenish,"may,jul",Ruscaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,104
+Polygonatum pubescens (Willd.) Pursh,Polygonatum pubescens,Greenish,"may,jun",Ruscaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,121
+Polygonum articulatum L.,Polygonella articulata,"Pink, white","aug, oct",Polygonaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,184
+Polygonum glaucum Nutt.,Polygonum glaucum,Pink,"jul, nov",Polygonaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,10
+Polymnia canadensis L.,Polymnia canadensis,"Yellowish, whitish, purplish","jun,sep",Asteraceae,yellow,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,91
+Pontederia cordata L.,Pontederia cordata,Blue,"June, September",Pontederiaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,2421
+Portulaca oleracea L.,Portulaca oleracea,Yellow,"jun,aug",Portulacaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,55
+Potentilla argentea L.,Potentilla argentea,Yellow,"jun, sep",Rosaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,531
+Potentilla canadensis L.,Potentilla canadensis,Yellow,"mar, jun",Rosaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,259
+Potentilla indica (Jacks.) Th.Wolf,Duchesnea indica,Yellow,"apr, aug",Rosaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,1374
+Potentilla norvegica L.,Potentilla norvegica,Yellow,"jun, aug",Rosaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,226
+Potentilla recta L.,Potentilla recta,Yellow,"jun, aug",Rosaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,1461
+Potentilla simplex Michx.,Potentilla simplex,Yellow,"may, jul",Rosaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,410
+Primula laurentiana Fernald,Primula laurentiana,"Pink, light purple","may, aug",Primulaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,4
+Primula meadia (L.) A.R.Mast & Reveal,Dodecatheon meadia,"Pink, lilac, white","mar, jun",Primulaceae,purple,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,1021
+Primula mistassinica Michx.,Primula mistassinica,"Pink, light purple","may, aug",Primulaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,203
+Prosartes lanuginosa (Michx.) D.Don,Disporum lanuginosum,Greenish,"apr,jun",Liliaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,20
+Proserpinaca palustris L.,Proserpinaca palustris,Green,"jul, sep",Haloragaceae,green,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,TRUE,6
+Prunella vulgaris L.,Prunella vulgaris,"Violet, purplish","may, sep",Lamiaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,3125
+Pseudognaphalium macounii (Greene) Kartesz,Gnaphalium macounii,White,"jul,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,18
+Pseudognaphalium obtusifolium (L.) Hilliard & B.L.Burtt,Gnaphalium obtusifolium,White,"jul,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,273
+Pterospora andromedea Nutt.,Pterospora andromedea,"White, pink","jun,aug",Ericaceae,pink,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,17
+Pycnanthemum incanum (L.) Michx.,Pycnanthemum incanum,"White, pale-lilac, purple","jun, jul",Lamiaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,44
+Pycnanthemum muticum (Michx.) Pers.,Pycnanthemum muticum,White,"jul, sep",Lamiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,117
+Pycnanthemum tenuifolium Schrad.,Pycnanthemum tenuifolium,White,"jun, sep",Lamiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,165
+Pycnanthemum verticillatum (Michx.) Pers.,Pycnanthemum verticillatum,White,"jul, sep",Lamiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,18
+Pycnanthemum virginianum (L.) T.Durand & B.D.Jacks. ex B.L.Rob. & Fernald,Pycnanthemum virginianum,White,"jul, aug",Lamiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,232
+Pyrola asarifolia Michx.,Pyrola asarifolia,"Pink, purple","apr, sep",Ericaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,47
+Pyrola chlorantha Sw.,Pyrola virens,"Green, greenish-white","jun, aug",Ericaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,44
+Pyrola elliptica Nutt.,Pyrola elliptica,White,"apr, aug",Ericaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,710
+Pyrola minor L.,Pyrola minor,"White, pinkish","jun, aug",Ericaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,2
+Pyxidanthera barbulata Michx.,Pyxidanthera barbulata,"White, pinkish","mar, may",Diapensiaceae,pink,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,66
+Ranunculus abortivus L.,Ranunculus abortivis,Yellow,"apr, jun",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,1114
+Ranunculus acris L.,Ranunculus acris,Yellow,"may, oct",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,518
+Ranunculus allegheniensis Britton,Ranunculus allegheniensis,Yellow,"apr, jul",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,5
+Ranunculus bulbosus L.,Ranunculus bulbosus,Yellow,"mar, jun",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,199
+Ranunculus fascicularis Muhl. ex Bigelow,Ranunculus fascicularis,Yellow,"apr, may",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,114
+Ranunculus flabellaris Raf.,Ranunculus flabellaris,Yellow,"apr, jun",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,90
+Ranunculus hispidus Michx.,Ranunculus hispidus,Yellow,"apr, jun",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,354
+Ranunculus pensylvanicus L.f.,Ranunculus pensylvanicus,Pale yellow,"jun, aug",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,23
+Ranunculus recurvatus Poir.,Ranunculus recurvatus,Pale yellow,"may, jun",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,327
+Ranunculus repens L.,Ranunculus repens,Yellow,"mar, aug",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,204
+Ranunculus reptans L.,Ranunculus reptans,Yellow,"jun,aug",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,20
+Ranunculus sceleratus L.,Ranunculus sceleratus,Pale yellow,"may, sep",Ranunculaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,TRUE,178
+Raphanus raphanistrum L.,Raphanus raphanistrum,"Pale yellow, white","jun, aug",Brassicaceae,yellow,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,TRUE,73
+Ratibida pinnata (Vent.) Barnhart,Ratibida pinnata,Yellow,"jun,aug",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,472
+Reynoutria japonica Houtt.,Polygonum cuspidatum,Greenish white,"jul, aug",Polygonaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,599
+Rhamphospermum nigrum (L.) Al-Shehbaz,Brassica nigra,Yellow,"may,aug",Brassicaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,TRUE,12
+Rhexia mariana L.,Rhexia mariana,Pale purple,"may, oct",Melastomataceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,TRUE,75
+Rhexia virginica L.,Rhexia virginica,Bright purple,"may, oct",Melastomataceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,323
+Rhinanthus minor L.,Rhinanthus minor,Yellow,"may, sep",Orobanchaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,197
+Rhodiola rosea L.,Sedum rosea,"Purplish, yellowish","jun, aug",Crassulaceae,yellow,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,14
+Rorippa sylvestris (L.) Besser,Rorippa sylvestris,Yellow,"jun, sep",Brassicaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,29
+Rubus allegheniensis (Porter) Porter,Rubus allegheniensis,White,"apr, jul",Rosaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,161
+Rubus chamaemorus L.,Rubus chamaemorus,White,"jun, jul",Rosaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,7
+Rubus idaeus L.,Rubus idaeus,White,"may, jul",Rosaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,46
+Rubus occidentalis L.,Rubus occidentalis,White,"may, jun",Rosaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,69
+Rubus repens (L.) Kuntze,Dalibarda repens,White,"apr,jun",Rosaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,12
+Rudbeckia fulgida Aiton,Rudbeckia fulgida,Yellow,"jul,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,40
+Rudbeckia laciniata L.,Rudbeckia laciniata,Yellow,"jul,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,489
+Rudbeckia triloba L.,Rudbeckia triloba,Yellow,"jul,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,452
+Ruellia strepens L.,Ruellia strepens,"Blue, violet","may,aug",Acanthaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,74
+Rumex acetosella L.,Rumex acetosella,"Red, yellowish green","jun,aug",Polygonaceae,red,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,166
+Rumex crispus L.,Rumex crispus,Green,"jun,oct",Polygonaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,TRUE,62
+Rumex obtusifolius L.,Rumex obtusifolius,Green,"jun,jul",Polygonaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,23
+Rumex verticillatus L.,Rumex verticillatus,Green,"may,jul",Polygonaceae,green,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,4
+Sabatia angularis (L.) Pursh,Sabatia angularis,Pink,"jul,oct",Gentianaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,355
+Sabatia campanulata (L.) Torr.,Sabatia campanulata,Pink,"jun,sep",Gentianaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,6
+Sabatia dodecandra (L.) Britton & al.,Sabatia dodecandra,Pink,"jun,sep",Gentianaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,2
+Sabatia stellaris Pursh,Sabatia stellaris,Pink,"jul,oct",Gentianaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,32
+Sagittaria engelmanniana J.G.Sm.,Sagittaria engelmanniana,White,"jun, sep",Alismataceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,10
+Sagittaria graminea Michx.,Sagittaria graminea,White,"apr, nov",Alismataceae,white,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,TRUE,19
+Sagittaria latifolia Willd.,Sagittaria latifolia,White,"jul, sep",Alismataceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,764
+Sagittaria rigida Pursh,Sagittaria rigida,White,"jul, sep",Alismataceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,31
+Sagittaria teres S.Watson,Sagittaria teres,White,"jul, sep",Alismataceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,12
+Salvia lyrata L.,Salvia lyrata,Violet,"mar, jun",Lamiaceae,purple,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,213
+Samolus parviflorus Raf.,Samolus parviflorus,White,"jul,oct",Samolaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,TRUE,65
+Sanguinaria canadensis L.,Sanguinaria canadensis,White,"MAR,MAY",Papaveraceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,8058
+Sanguisorba canadensis L.,Sanguisorba canadensis,White,"jun, oct",Rosaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,107
+Sanicula canadensis L.,Sanicula canadensis,Greenish white,"jun,jul",Apiaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,12
+Sanicula marilandica L.,Sanicula marilandica,Greenish white,"jun,jul",Apiaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,51
+Saponaria officinalis L.,Saponaria offinalis,"Pink, white","jul,sep",Caryophyllaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,1365
+Sarracenia purpurea L.,Sarracenia purpurea,Dark red,"may, aug",Sarraceniaceae,red,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,738
+Saururus cernuus L.,Saururus cernuus,White,"mar,sep",Saururaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,TRUE,206
+Scleranthus annuus L.,Scleranthus annuus,Green,"may,sep",Caryophyllaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,64
+Scorzoneroides autumnalis (L.) Moench,Leontodon autumnalis,Yellow,"aug,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,TRUE,250
+Scrophularia lanceolata Pursh,Scrophularia lanceolata,"Green, brown","may, jul",Scrophulariaceae,green,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,25
+Scrophularia marilandica L.,Scrophularia marilandica,"Green, brown","jun, oct",Scrophulariaceae,green,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,75
+Scutellaria elliptica Muhl.,Scutellaria elliptica,Blue,"may, jul",Lamiaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,48
+Scutellaria galericulata L.,Scutellaria galericulata,Blue-violet,"jun, sep",Lamiaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,608
+Scutellaria incana Spreng.,Scutellaria incana,Blue,"jun, sep",Lamiaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,115
+Scutellaria integrifolia L.,Scutellaria integrifolia,Blue,"may, jul",Lamiaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,62
+Scutellaria lateriflora L.,Scutellaria lateriflora,"Blue, violet","jun, oct",Lamiaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,399
+Scutellaria nervosa Pursh,Scutellaria nervosa,Blue,"may, sep",Lamiaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,17
+Scutellaria ovata Hill,Scutellaria ovata,Blue,"apr, jun",Lamiaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,47
+Scutellaria parvula Michx.,Scutellaria parvula,Blue,"mar, jun",Lamiaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,58
+Scutellaria serrata Andrews,Scutellaria serrata,Blue,"jun, sep",Lamiaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,8
+Sedum acre L.,Sedum acre,Yellow,"jun, jul",Crassulaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,192
+Sedum ternatum Michx.,Sedum ternatum,White,"mar,jun",Crassulaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,277
+Senecio vulgaris L.,Senecio vulgaris,Yellow,"may,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,594
+Senna hebecarpa (Fernald) H.S.Irwin & Barneby,Cassia hebecarpa,Yellow,"jul, aug",Fabaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,109
+Sericocarpus linifolius (L.) Britton & al.,Sericocarpus linifolius,White,"jul, oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,9
+Sibbaldia tridentata (Aiton) Paule & Soják,Potentilla tridentata,White,"jun,aug",Rosaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,782
+Sida spinosa L.,Sida spinosa,Yellow,"jun, oct",Malvaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,11
+Silene acaulis (L.) Jacq.,Silene acaulis,"pink, lilac","jun,aug",Caryophyllaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,3
+Silene antirrhina L.,Silene antirrhina,"Pink, white","jun,sep",Caryophyllaceae,pink,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,TRUE,13
+Silene caroliniana Walter,Silene caroliniana,Pink,"mar,jun",Caryophyllaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,153
+Silene dioica (L.) Clairv.,Lychnis dioica,Rose,"may,sep",Caryophyllaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,27
+Silene latifolia Poir.,Lychnis alba,"White, pinkish","may,sep",Caryophyllaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,1606
+Silene noctiflora L.,Silene noctiflora,"White, pinkish","jun,sep",Caryophyllaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,TRUE,6
+Silene regia Sims,Silene regia,Scarlet,"jul, aug",Caryophyllaceae,red,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,184
+Silene stellata (L.) W.T.Aiton,Silene stellata,White,"jul,aug",Caryophyllaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,238
+Silene virginica L.,Silene virginica,Scarlet,"apr,aug",Caryophyllaceae,red,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,377
+Silene vulgaris (Moench) Garcke,Silene cucubalus,White,"jun,oct",Caryophyllaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,1030
+Silphium perfoliatum L.,Silphium perforliatum,Yellow,"jul,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,437
+Silphium terebinthinaceum Jacq.,Silphium terebnthinaceum,Yellow,"aug,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,138
+Sinapis arvensis L.,Brassica kaber,Yellow,"may, jun",Brassicaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,TRUE,17
+Sisymbrium altissimum L.,Sisymbrium altissimum,Pale yellow,"jun, aug",Brassicaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,3
+Sisymbrium officinale (L.) Scop.,Sisymbrium officinale,Yellow,"may, oct",Brassicaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,14
+Sisyrinchium albidum Raf.,Sisyrinchium albidum,"Pale blue, white","mar,jun",Iridaceae,blue,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,40
+Sisyrinchium angustifolium Mill.,Sisyrinchium angustifolium,Pale blue,"mar,jul",Iridaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,115
+Sisyrinchium atlanticum E.P.Bicknell,Sisyrinchium atlanticum,Pale blue,"mar,jul",Iridaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,23
+Sisyrinchium montanum Greene,Sisyrinchium montanum,Deep violet-blue,"may,jul",Iridaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,123
+Sisyrinchium mucronatum Michx.,Sisyrinchium mucronatum,Violet-blue,"mar,jun",Iridaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,6
+Sium suave Walter,Sium suave,White,"jul, sep",Apiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,155
+Smilax glauca Walter,Smilax glauca,Green,"may,jul",Smilacaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,8
+Smilax herbacea L.,Smilax herbacea,Greenish,"may,jun",Smilacaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,151
+Smilax rotundifolia L.,Smilax rotundifolia,Green,"apr,jun",Smilacaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,127
+Smilax tamnoides L.,Smilax tamnoides,Green,"may,jun",Smilacaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,21
+Solanum carolinense L.,Solanum carolinense,"Violet, white","may, sep",Solanaceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,1332
+Solidago arguta Aiton,Solidago arguta,Yellow,"jul,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,25
+Solidago bicolor L.,Solidago bicolor,Whitish,"jul,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,936
+Solidago caesia L.,Solidago caesia,Yellow,"aug,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,1497
+Solidago canadensis L.,Solidago canadensis,Yellow,"jul,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,328
+Solidago erecta Pursh,Solidago erecta,Light yellow,"aug,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,5
+Solidago flexicaulis L.,Solidago flexicaulus,Yellow,"aug,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,967
+Solidago gigantea Aiton,Solidago gigantea,Yellow,"aug,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,295
+Solidago hispida Muhl. ex Willd.,Solidago hispida,Orange-yellow,"aug,oct",Asteraceae,orange,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,130
+Solidago juncea Aiton,Solidago juncea,Yellow,"jun,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,699
+Solidago leiocarpa DC.,Solidago cutleri,Yellow,"jul,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,31
+Solidago macrophylla Banks ex Pursh,Solidago macrophylla,Yellow,"aug,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,58
+Solidago nemoralis Aiton,Solidago nemoralis,Yellow,"aug,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,393
+Solidago odora Aiton,Solidago odora,Yellow,"jul,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,43
+Solidago ohioensis Riddell,Solidago ohioensis,Yellow,"aug,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,47
+Solidago patula Muhl. ex Willd.,Solidago patula,Yellow,"aug,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,55
+Solidago ptarmicoides (Torr. & A.Gray) B.Boivin,Aster ptarmicoides,White,"jul,sep",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,586
+Solidago puberula Nutt.,Solidago puberula,Bright yellow,"aug,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,102
+Solidago randii (Porter) Britton,Solidago randii,Yellow,"jul,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,9
+Solidago rigida L.,Solidago rigida,Yellow,"aug,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,255
+Solidago rugosa Mill.,Solidago altissima,Yellow,"aug,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,855
+Solidago sempervirens L.,Solidago sempervirens,Yellow,"aug,nov",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,672
+Solidago squarrosa Muhl.,Solidago squarrosa,Yellow,"aug,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,104
+Solidago stricta Aiton,Solidago stricta,Yellow,"aug,nov",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,TRUE,8
+Solidago uliginosa Nutt.,Solidago uliginosa,Yellow,"aug,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,132
+Solidago ulmifolia Muhl. ex Willd.,Solidago ulmifolia,Yellow,"jul,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,76
+Sonchus arvensis L.,Sonchus arvensis,Yellow,"jul,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,301
+Sonchus asper (L.) Hill,Sonchus asper,Pale yellow,"jul,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,TRUE,143
+Sonchus oleraceus L.,Sonchus oleraceus,Pale yellow,"jul,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,TRUE,66
+Sparganium americanum Nutt.,Sparganium americanum,Greenish white,"may,aug",Typhaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,10
+Sparganium eurycarpum Engelm.,Sparganium eurycarpum,Greenish white,"jun,aug",Typhaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,52
+Spergula arvensis L.,Spergula arvensis,White,"jun,sep",Caryophyllaceae,white,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,TRUE,3
+Spergularia rubra (L.) J.Presl & C.Presl,Spergularia rubra,Pink,"jun,oct",Caryophyllaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,294
+Spergularia salina J.Presl & C.Presl,Spergularia marina,"Pink, white","mar,sep",Caryophyllaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,TRUE,115
+Spiranthes lacera (Raf.) Raf.,Spiranthes lacera,White,"August, September",Orchidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,248
+Spiranthes lucida (H.H.Eaton) Ames,Spiranthes lucida,White,"May, August",Orchidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,TRUE,52
+Spiranthes romanzoffiana Cham.,Spiranthes romanzoffiana,White,"July, August",Orchidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,31
+Spiranthes tuberosa Raf.,Spiranthes tuberosa,White,"June, September",Orchidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,TRUE,52
+Spiranthes vernalis Engelm. & A.Gray,Spiranthes vernalis,White,"January, October",Orchidaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,TRUE,92
+Stachys hyssopifolia Michx.,Stachys hyssopifolia,Pale-purple,"jul, sep",Lamiaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,TRUE,5
+Stachys palustris L.,Stachys palustris,Rose-purple,"apr, may",Lamiaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,81
+Stachys tenuifolia Willd.,Stachys tenuifolia,Rose-purple,"apr, may",Lamiaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,13
+Stellaria graminea L.,Stellaria graminea,White,"may,aug",Caryophyllaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,166
+Stellaria longifolia Muhl. ex Willd.,Stellaria longifolia,White,"may,jul",Caryophyllaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,TRUE,7
+Stellaria pubera Michx.,Stellaria pubera,White,"mar,may",Caryophyllaceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,513
+Stenanthium gramineum (KerGawl.) Morong,Stenanthium gramineum,"White, greenish","jun,sep",Melanthiaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,4
+Streptopus amplexifolius (L.) DC.,Streptopus amplexifolius,Greenish,"may,jul",Liliaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,25
+Streptopus lanceolatus (Aiton) Reveal,Streptopus roseus,"Rose-purple, pink","may,jul",Liliaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,281
+Stylophorum diphyllum (Michx.) Nutt.,Stylophorum diphyllum,Deep-yellow,"mar, may",Papaveraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,1133
+Stylosanthes biflora (L.) Britton & al.,Stylosanthes biflora,Yellow,"May, September",Fabaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,TRUE,21
+Symphyotrichum boreale (Torr. & A.Gray) Á.Löve & D.Löve,Aster junciformis,"Violet, rose, white","jul,oct",Asteraceae,purple,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,29
+Symphyotrichum cordifolium (L.) G.L.Nesom,Aster cordifolius,"Blue-violet, rose","aug,oct",Asteraceae,blue,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,1356
+Symphyotrichum ericoides (L.) G.L.Nesom,Aster ericoides,White,"aug,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,424
+Symphyotrichum laeve (L.) Á.Löve & D.Löve,Aster laevis,"Blue, violet","aug,oct",Asteraceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,249
+Symphyotrichum lateriflorum (L.) Á.Löve & D.Löve,Aster lateriflorus,"White, purple","aug,oct",Asteraceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,764
+Symphyotrichum novae-angliae (L.) G.L.Nesom,Aster novae-angliae,"Violet-purple, rose, white","aug,oct",Asteraceae,purple,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,3580
+Symphyotrichum novi-belgii (L.) G.L.Nesom,Aster novi-belgii,Violet,"jul,oct",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,TRUE,76
+Symphyotrichum patens (Dryand. ex Aiton) G.L.Nesom,Aster undulatus,Light blue-violet,"aug,nov",Asteraceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,TRUE,23
+Symphyotrichum pilosum (Willd.) G.L.Nesom,Aster pilosus,White,"aug,oct",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,699
+Symphyotrichum prenanthoides (Muhl. ex Willd.) G.L.Nesom,Aster prenanthoides,Blue-violet,"aug,oct",Asteraceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,61
+Symphyotrichum racemosum (Elliott) G.L.Nesom,Aster tenuifolius,"Pale purple, white","aug,oct",Asteraceae,purple,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,28
+Symphyotrichum shortii (Lindl. ex Hook.) G.L.Nesom,Aster shortii,Pale violet,"sep,oct",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,76
+Symphyotrichum undulatum (L.) G.L.Nesom,Aster sagittifolius,"Blue, pinkish, white","aug,nov",Asteraceae,blue,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,TRUE,28
+Symphytum officinale L.,Symphytum officinale,"Yellowish, whitish, purplish","may, aug",Boraginaceae,yellow,0,0,1,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,130
+Symplocarpus foetidus (L.) Salisb. ex W.P.C.Barton,Symplocarpus foetidus,"Purple-brown, green","February, April",Araceae,green,0,0,0,1,0,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,TRUE,2350
+Taenidia integerrima (L.) Drude,Taenidia integerrima,Yellow,"may, jun",Apiaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,83
+Tanacetum parthenium (L.) Sch.Bip.,Chrysanthemum parthenium,White,"jun,aug",Asteraceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,89
+Tanacetum vulgare L.,Tanacetum vulgare,Yellow,"jul,sep",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,TRUE,1097
+Taraxacum erythrospermum Andrz. ex Besser,Taraxacum erythrospermum,Yellow,"jun,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,33
+Tephrosia virginiana (L.) Pers.,Tephrosia virginiana,"Pale yellow, pinkish, purple","April, July",Fabaceae,yellow,0,0,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,143
+Teucrium canadense L.,Teucrium canadense,Purplish,"may, aug",Lamiaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,598
+Thalictrum dasycarpum Fisch. & al.,Thalictrum dasycarpum,White,"mar, jul",Ranunculaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,51
+Thalictrum dioicum L.,Thalictrum diocium,Greenish,"apr, jun",Ranunculaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,568
+Thalictrum pubescens Pursh,Thalictrum polygamum,White,"jun, aug",Ranunculaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,743
+Thalictrum thalictroides (L.) A.J.Eames & B.Boivin,Thalictrum thalictroides,"White, pinkish","mar,jun",Ranunculaceae,pink,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,2339
+Thaspium trifoliatum (L.) A.Gray,Thaspium trifoliatum,"Yellow, purple","may, jun",Apiaceae,yellow,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,4
+Thlaspi arvense L.,Thlaspi arvense,White,"apr, jun",Brassicaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,409
+Tiarella cordifolia L.,Tiarella cordifolia,White,"mar, jul",Saxifragaceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,2
+Tipularia discolor (Pursh) Nutt.,Tipularia discolor,Greenish-purple,"June, September",Orchidaceae,green,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,146
+Tradescantia ohiensis Raf.,Tradescantia ohiensis,"Blue, purple","mar, aug",Commelinaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,529
+Tradescantia virginiana L.,Tradescantia virginiana,"Blue, purple","mar, aug",Commelinaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,174
+Tragopogon porrifolius L.,Tragopogon porrifolus,Purple,"apr,aug",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,11
+Tragopogon pratensis L.,Tragopogon pratensis,Yellow,"may,aug",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,153
+Triantha glutinosa (Michx.) Baker,Tofieldia glutinosa,White,"jun,aug",Tofieldiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,69
+Trichostema brachiatum L.,Isanthus brachiatus,Pale blue,"aug,sep",Lamiaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,201
+Trichostema dichotomum L.,Trichostema dichotomum,Purple,"aug, oct",Lamiaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,TRUE,557
+Trifolium arvense L.,Trifolium arvense,"Magenta, purple","June, September",Fabaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,478
+Trifolium aureum Pollich,Trifolium aureum,Yellow,"May, September",Fabaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,461
+Trifolium dubium Sibth.,Trifolium procumbens,Yellow,"May, October",Fabaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,264
+Trifolium hybridum L.,Trifolium hybridum,"Pink, pinkish","June, September",Fabaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,599
+Trifolium pratense L.,Trifolium pratense,"Magenta, purple","June, September",Fabaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,TRUE,4568
+Trifolium repens L.,Trifolium repens,"White, pale pink","May, October",Fabaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,2946
+Trillium cernuum L.,Trillium cernuum,"White, pale pink",may,Melanthiaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,999
+Trillium erectum L.,Trillium erectum,"Maroon, dark purple","apr, jun",Melanthiaceae,red,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,8031
+Trillium flexipes Raf.,Trillium flexipes,White,"may, jun",Melanthiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,1181
+Trillium grandiflorum (Michx.) Salisb.,Trillium grandiflorum,"White, pink","may, jun",Melanthiaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,8357
+Trillium nivale Riddell,Trillium nivale,White,"mar, apr",Melanthiaceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,783
+Trillium recurvatum L.C.Beck,Trillium recurvatum,Maroon,"mar, may",Melanthiaceae,red,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,2791
+Trillium sessile L.,Trillium sessile,Maroon,apr,Melanthiaceae,red,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,1955
+Trillium undulatum Willd.,Trillium undulatum,"White, crimson","apr, jun",Melanthiaceae,red,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,3901
+Triodanis perfoliata (L.) Nieuwl.,Specularia perfoliata,"Blue, violet","may,jul",Campanulaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,606
+Triosteum aurantiacum E.P.Bicknell,Triosteum aurantiacum,Dull purplish-red,"may, jun",Caprifoliaceae,red,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,84
+Triosteum perfoliatum L.,Triosteum perfoliatum,"Purplish brown, green","may,jun",Caprifoliaceae,green,0,0,0,1,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,29
+Triphora trianthophora (Sw.) Rydb.,Triphora trianthophora,"Pale pink, whitish","July, October",Orchidaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,TRUE,64
+Trollius laxus Salisb.,Trollius laxus,Greenish yellow,"mar, aug",Ranunculaceae,yellow,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,12
+Turritis glabra L.,Arabis glabra,Yellowish white,"mar, jul",Brassicaceae,yellow,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,147
+Tussilago farfara L.,Tussilago farfara,Yellow,"mar,apr",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,2722
+Typha angustifolia L.,Typha angustifolia,Brownish,"may,aug",Typhaceae,brown,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,34
+Typha latifolia L.,Typha latifolia,Brownish,"apr,jun",Typhaceae,brown,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,71
+Urtica dioica L.,Urtica dioica,Greenish,"jun,aug",Urticaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,TRUE,95
+Urtica gracilis Aiton,Urtica procera,Greenish,"jun,aug",Urticaceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,20
+Utricularia cornuta Michx.,Utricularia cornuta,Yellow,"June, September",Lentibulariaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,147
+Utricularia gibba L.,Utricularia gibba,Yellow,"May, August",Lentibulariaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,TRUE,45
+Utricularia inflata Walter,Utricularia inflata,Yellow,"May, November",Lentibulariaceae,yellow,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,TRUE,27
+Utricularia intermedia Hayne,Utricularia intermedia,Yellow,"July, August",Lentibulariaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,53
+Utricularia purpurea Walter,Utricularia purpurea,Purple,"July, September",Lentibulariaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,TRUE,73
+Uvularia grandiflora Sm.,Uvularia grandiflora,Orange-yellow,"mar,jun",Colchicaceae,orange,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,1336
+Uvularia perfoliata L.,Uvularia perfoliata,Pale yellow,"mar,jun",Colchicaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,284
+Uvularia sessilifolia L.,Uvularia sessilifolia,Pale yellow,"apr,may",Colchicaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,1455
+Vaccinium macrocarpon Aiton,Vaccinium macrocarpon,Pale pink,"jun, aug",Ericaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,112
+Vaccinium oxycoccos L.,Vaccinium oxycoccos,Pale pink,jun,Ericaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,94
+Vaccinium vitis-idaea L.,Vaccinium vitis-idaea,Pink,"may,jul",Ericaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,178
+Valeriana officinalis L.,Valeriana officinalis,Pale pink,"jul,oct",Valerianaceae,pink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,471
+Valeriana uliginosa (Torr. & A.Gray) Rydb.,Valeriana uliginosa,"Pale pink, white","may,jun",Valerianaceae,pink,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,39
+Valerianella locusta (L.) Laterr.,Valerianella olitoria,"Bluish, whitish","apr,may",Valerianaceae,blue,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,44
+Veratrum virginicum (L.) W.T.Aiton,Melanthium virginicum,Greenish white,"jun,jul",Melanthiaceae,green,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,13
+Veratrum viride Aiton,Veratrum viride,White,"may,jul",Melanthiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,TRUE,209
+Verbascum blattaria L.,Verbascum blattaria,"Yellow, white","jun, sep",Scrophulariaceae,yellow,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,TRUE,664
+Verbascum thapsus L.,Verbascum thapsus,Yellow,"jun, sep",Scrophulariaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,1182
+Verbena hastata L.,Verbena hastata,Violet blue,"jun,sep",Verbenaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,2104
+Verbena simplex Lehm.,Verbena simplex,Purple,"jun,aug",Verbenaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,62
+Verbena stricta Vent.,Verbena stricta,"Purple, pink","jun,sep",Verbenaceae,purple,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,313
+Verbena urticifolia L.,Verbena urticifolia,White,"jul,sep",Verbenaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,704
+Verbesina alternifolia (L.) Britton ex Kearney,Actinomeris alternifolia,Yellow,"jul,oct",Asteraceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,1005
+Vernonia gigantea (Walter) Trel. ex Trel.,Vernonia altissima,Purple,"jun, oct",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,178
+Vernonia noveboracensis (L.) Michx.,Vernonia noveboracensis,Purple,"aug, oct",Asteraceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,229
+Veronica americana (Raf.) Schwein. ex Benth.,Veronica americana,"Blue, violet",jun,Plantaginaceae,blue,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,TRUE,60
+Veronica arvensis L.,Veronica arvensis,"Blue, whitish","may, sep",Plantaginaceae,blue,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,368
+Veronica chamaedrys L.,Veronica chamaedrys,Deep blue,"mar,jul",Plantaginaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,386
+Veronica officinalis L.,Veronica officinalis,"Lilac, lavender","jun, aug",Plantaginaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,TRUE,547
+Veronica peregrina L.,Veronica peregrina,Whitish,"may, oct",Plantaginaceae,white,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,63
+Veronica persica Poir.,Veronica persica,Blue,"apr, jul",Plantaginaceae,blue,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,TRUE,1265
+Veronica scutellata L.,Veronica scutellata,Blue,"may, aug",Plantaginaceae,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,TRUE,87
+Veronica serpyllifolia L.,Veronica serpyllifolia,"White, pale-blue","apr, jul",Plantaginaceae,blue,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,701
+Veronicastrum virginicum (L.) Farw.,Veronicastrum virginicum,White,"jun, aug",Plantaginaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,305
+Vinca minor L.,Vinca minor,Blue-violet,"may,jun",Apocynaceae,blue,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,2204
+Viola adunca Sm.,Viola adunca,Violet,"April, August",Violaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,19
+Viola affinis J.LeConte,Viola affinis,Purple,"April, June",Violaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,8
+Viola blanda Willd.,Viola blanda,White,"April, June",Violaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,111
+Viola brittoniana (Britton) Pollard,Viola brittoniana,Violet,"April, June",Violaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,12
+Viola canadensis L.,Viola canadensis,White,"May, July",Violaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,604
+Viola cucullata Aiton,Viola cucullata,Purple,"April, June",Violaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,TRUE,174
+Viola hastata Michx.,Viola hastata,Yellow,"April, May",Violaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,168
+Viola hirsutula Brainerd,Viola hirsutula,Reddish purple,"March, June",Violaceae,red,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,TRUE,5
+Viola incognita Brainerd,Viola incognita,White,"apr,jun",Violaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,TRUE,10
+Viola labradorica Schrank,Viola conspersa,Pale violet,"may,jun",Violaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,208
+Viola lanceolata L.,Viola lanceolata,White,"April, June",Violaceae,white,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,TRUE,174
+Viola novae-angliae House,Viola novae-angliae,Purple,"April, June",Violaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,3
+Viola pedata L.,Viola pedata,Lilac-purple,"March, June",Violaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,460
+Viola pedatifida G.Don,Viola pedatifida,Violet,"April, June",Violaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,TRUE,59
+Viola primulifolia L.,Viola primulifolia,White,"April, June",Violaceae,white,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,TRUE,72
+Viola pubescens Aiton,Viola pubescens,Yellow,"May, June",Violaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,TRUE,40
+Viola renifolia A.Gray,Viola renifolia,White,"April, June",Violaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,TRUE,39
+Viola rostrata Pursh,Viola rostrata,Pale lilac,"April, June",Violaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,524
+Viola rotundifolia Michx.,Viola rotundifolia,Yellow,"April, May",Violaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,492
+Viola sagittata Aiton,Viola fimbriatula,Violet-purple,"may,jul",Violaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,201
+Viola selkirkii Pursh ex Goldie,Viola selkirkii,Pale violet,"May, July",Violaceae,purple,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,16
+Viola sororia Willd.,Viola sororia,Purple,"March, May",Violaceae,purple,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,TRUE,2908
+Viola striata Aiton,Viola striata,Cream,"April, June",Violaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,TRUE,370
+Xanthium strumarium L.,Xanthium echinatum,Greenish,"jul,oct",Asteraceae,green,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,TRUE,19
+Xerophyllum asphodeloides (L.) Nutt.,Xerophyllum asphodeloides,White,"mar,jul",Melanthiaceae,white,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,TRUE,81
+Xyris torta Sm.,Xyris torta,Yellow,"mar, nov",Xyridaceae,yellow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,TRUE,19
